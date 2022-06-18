@@ -7,12 +7,40 @@
       place: 'La bascule, ArGoat'
     },
     {
-      date: new Date(2022, 11, 21, 21, 0),
+      date: new Date(2022, 5, 21, 21, 0),
       place: 'Fêtes de la musique, Runan'
     },
     {
-      date: new Date(2022, 11, 17, 24, 0),
+      date: new Date(2022, 5, 24, 20, 30),
       place: 'bar de La Mi-Temps bouille, Saint Brieuc'
+    },
+    {
+      date: new Date(2022, 6, 8, 19, 0),
+      place: 'Kurnig Kafé, Guissény'
+    },
+    {
+      date: new Date(2022, 6, 18, 18, 30),
+      place: 'La Godaille, Belle-Île-en-Mer'
+    },
+    {
+      date: new Date(2022, 6, 18, 21, 0),
+      place: 'Matelo, Belle-Île-en-Mer'
+    },
+    {
+      date: new Date(2022, 6, 20, 19, 0),
+      place: 'Mabalulu, Locmaria'
+    },
+    {
+      date: new Date(2022, 6, 22, 19, 30),
+      place: "Camping de l'océan, Belle-Île-en-Mer"
+    },
+    {
+      date: new Date(2022, 6, 24, 21, 30),
+      place: 'Nul Bar After, Sauzon'
+    },
+    {
+      date: new Date(2022, 6, 27, 19, 30),
+      place: 'Domaine Maritime de Beg Porz, Moëlan-sur-Mer'
     }
   ];
 
