@@ -23,7 +23,7 @@
       place: 'La Godaille, Belle-Île-en-Mer'
     },
     {
-      date: new Date(2022, 6, 18, 21, 0),
+      date: new Date(2022, 6, 19, 21, 0),
       place: 'Matelo, Belle-Île-en-Mer'
     },
     {
@@ -132,7 +132,7 @@
             </span>
           {/if}
           <div class="font-Inter relative flex top-1">
-            <div class="pl-2 text-xl flex-shrink-0 font-semibold tracking-wide uppercase">
+            <div class="pl-2 text-xl w-24 flex-shrink-0 font-semibold tracking-wide uppercase">
               {dateToString(concert.date)}
             </div>
             <div class="ml-4 min-w-0 flex flex-col">
