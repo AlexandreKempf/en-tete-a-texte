@@ -8,8 +8,7 @@
   const setCurrentParoles = () => (current = 'paroles');
 </script>
 
-<title>Gilles Le Cornec</title>
-
+<title>En-Tête-en-Texte</title>
 <div class="absolute flex w-full">
   <div class="inline-flex w-1/2 flex-col">
     <nav class="flex items-center gap-10">
