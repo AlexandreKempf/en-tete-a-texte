@@ -25,7 +25,7 @@
 			0: 'Janv',
 			1: 'Févr',
 			2: 'Mars',
-			3: 'Avri',
+			3: 'Avril',
 			4: 'Mai',
 			5: 'Juin',
 			6: 'Juil',
