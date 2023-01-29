@@ -3,10 +3,10 @@
 
 	$pageTitle = 'concerts';
 	// date start at 0 for months
-	var concerts = [		
+	var concerts = [
 		{
 			date: new Date(2023, 2, 17, 20, 0),
-			place: 'Brasserie de L\'imprimerie, Bannalec'
+			place: "Brasserie de L'imprimerie, Bannalec"
 		},
 		{
 			date: new Date(2023, 3, 7, 18, 30),
@@ -106,7 +106,7 @@
 						</span>
 					{/if}
 					<div class="font-Inter relative flex top-1">
-						<div class="pl-2 text-xl w-24 flex-shrink-0 font-semibold tracking-wide uppercase">
+						<div class="pl-2 text-xl w-36 flex-shrink-0 font-semibold tracking-wide uppercase">
 							{dateToString(concert.date)}
 						</div>
 						<div class="ml-4 min-w-0 flex flex-col">
