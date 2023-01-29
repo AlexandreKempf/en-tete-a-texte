@@ -18,7 +18,7 @@
 			>
 			<a
 				href="boutique"
-				class="z-30 grow text-2xl font-bold {$pageTitle == 'boutique'
+				class="z-30 text-2xl font-bold {$pageTitle == 'boutique'
 					? 'text-sky-600'
 					: 'text-gray-900'} hover:text-red-700">Boutique</a
 			>
