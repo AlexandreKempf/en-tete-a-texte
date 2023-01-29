@@ -6,7 +6,7 @@
 	var concerts = [		
 		{
 			date: new Date(2023, 2, 17, 20, 00),
-			place: "Brasserie de L'imprimerie, Bannalec"
+			place: 'Brasserie de L'imprimerie, Bannalec'
 		},
 		{
 			date: new Date(2023, 3, 7, 18, 30),
