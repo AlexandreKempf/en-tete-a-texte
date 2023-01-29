@@ -1,4 +1,7 @@
 <script>
+	import { pageTitle } from './stores.js';
+
+	$pageTitle = 'index';
 </script>
 
 <title>Gilles Le Cornec</title>

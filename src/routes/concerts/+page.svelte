@@ -1,4 +1,7 @@
 <script>
+	import { pageTitle } from '../stores.js';
+
+	$pageTitle = 'concerts';
 	// date start at 0 for months
 	var concerts = [
 		{ date: new Date(2022, 5, 10, 20, 0), place: 'Ty Pouce, Quimperlé' },
