@@ -16,6 +16,10 @@
 			date: new Date(2023, 3, 8, 19, 30),
 			place: 'Chez Cousin, Nizon'
 		}
+		{
+			date: new Date(2023, 4, 6, 19, 30),
+			place: 'Brizeux, Quimperlé'
+		}
 	];
 
 	var today = new Date();
