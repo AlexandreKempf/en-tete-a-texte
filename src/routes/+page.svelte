@@ -13,13 +13,18 @@
 				<span class="text-sky-700">Gilles</span>
 				<span class="text-gray-900">Le Cornec</span>
 			</h1>
+
+			 
 			<p class="text-xl text-gray-700 mt-5">
-				Originaire des Côtes d’Armor, où il a été formé musicalement, Gilles Le Cornec est auteur,
-				compositeur et interprête.
+				est auteur, compositeur et interprète de ses chansons depuis quelques années. Épris de science et de littérature, 
+				il évolue dans le monde de la recherche en écologie marine pendant cinq années avant de s'en éloigner pour prendre 
+				le temps de voyager.
 			</p>
+
 			<p class="text-xl text-gray-700 mt-5">
-				Inspiré de voyages, de rencontres et d’amitiés, Gilles Le Cornec vous propose ici un aperçu
-				de son univers poétique et déjanté.
+			Océan indien, Asie du sud-est, Afrique de l'ouest influencent sa vision du monde et ses écrits, 
+			qu'il décide de mettre en musique. Après son premier duo "Barde à Vous", surtout actif à Belle-île-en-mer,
+			 il lance avec son frère Kergann le groupe "En tête à texte", projet de chansons à texte basé en Bretagne.	
 			</p>
 		</div>
 	</div>
@@ -39,8 +44,14 @@
 			<span class="text-gray-900">Le Cornec</span>
 		</h1>
 		<p class="text-xl text-gray-700 mt-5">
-			Originaire des Côtes d’Armor, où il a été formé musicalement, Kergann Le Cornec est musicien
-			et interprête.
+			est musicien, compositeur et interprète depuis sa plus tendre enfance.
+			Très tôt il se met au piano et prête un grand intérêt à l'improvisation. 
+		    Plus tard il testera tous les instruments qui lui tomberont entre les mains et la guitare restera l'un de ses instruments de prédilection.
+		</p>
+		<p class="text-xl text-gray-700 mt-5">
+		Il est également passionné par les mathématiques et obtient son Doctorat en 2020. 
+		Après sa thèse, il décide finalement de s'écarter de la recherche pour se consacrer au groupe,
+			 lui permettant ainsi de découvrir le montage son et vidéo et d'étancher sa soif de musique !
 		</p>
 	</div>
 </div>

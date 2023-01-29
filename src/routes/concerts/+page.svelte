@@ -3,47 +3,18 @@
 
 	$pageTitle = 'concerts';
 	// date start at 0 for months
-	var concerts = [
-		{ date: new Date(2022, 5, 10, 20, 0), place: 'Ty Pouce, Quimperlé' },
+	var concerts = [		
 		{
-			date: new Date(2022, 5, 19, 16, 30),
-			place: 'La bascule, ArGoat'
+			date: new Date(2023, 2, 17, 20, 00),
+			place: "Brasserie de L'imprimerie, Bannalec"
 		},
 		{
-			date: new Date(2022, 5, 21, 21, 0),
-			place: 'Fêtes de la musique, Runan'
+			date: new Date(2023, 3, 7, 18, 30),
+			place: 'Association Naturaliste, Rennes'
 		},
 		{
-			date: new Date(2022, 5, 24, 20, 30),
-			place: 'bar de La Mi-Temps bouille, Saint Brieuc'
-		},
-		{
-			date: new Date(2022, 6, 8, 19, 0),
-			place: 'Kurnig Kafé, Guissény'
-		},
-		{
-			date: new Date(2022, 6, 18, 18, 30),
-			place: 'La Godaille, Belle-Île-en-Mer'
-		},
-		{
-			date: new Date(2022, 6, 19, 21, 0),
-			place: 'Matelo, Belle-Île-en-Mer'
-		},
-		{
-			date: new Date(2022, 6, 20, 19, 0),
-			place: 'Mabalulu, Locmaria'
-		},
-		{
-			date: new Date(2022, 6, 22, 19, 30),
-			place: "Camping de l'océan, Belle-Île-en-Mer"
-		},
-		{
-			date: new Date(2022, 6, 24, 21, 30),
-			place: 'Nul Bar After, Sauzon'
-		},
-		{
-			date: new Date(2022, 6, 27, 19, 30),
-			place: 'Domaine Maritime de Beg Porz, Moëlan-sur-Mer'
+			date: new Date(2023, 3, 8, 19, 30),
+			place: 'Chez Cousin, Nizon'
 		}
 	];
 

@@ -15,17 +15,17 @@
 		<div class="lg:w-1/2">
 			<h1 class="text-7xl font-extralight tracking-wide py-2">Délivresse</h1>
 			<p class="text-sm text-gray-700 italic py-1">
-				Cette chanson est une ôde à l'ivresse et a la délivrance. Duo de pochtrons. On pourrait en
-				parler longtemps le but c'est juste d'avoir une introduction a la chanson ici.
+				Cette chanson est une ôde à l'ivresse et a la délivrance. Chanson de marin écrite par le padre ! 
+				En direct du Marimba Tyfolie Club.
 			</p>
 			<p class="text-sm text-gray-700">
-				<b>Paroles :</b> Papa Le Cornec
+				<b>Paroles :</b> Pierre Marcel Le Cornec
 			</p>
 			<p class="text-sm text-gray-700">
-				<b>Musique :</b> Gilles Le Cornec
+				<b>Musique :</b> Kergann, Gilles et Stan Le Cornec
 			</p>
 			<p class="text-sm text-gray-700">
-				<b>Vidéo :</b> Le copain à Guillou
+				<b>Vidéo :</b> Aerieal Takof Productions
 			</p>
 		</div>
 	</div>
@@ -36,7 +36,7 @@
 		<div class="lg:w-1/2">
 			<h1 class="text-7xl font-extralight tracking-wide py-2">Mélanie</h1>
 			<p class="text-sm text-gray-700 italic py-1">
-				Hymne à la joie et à l'amour. La chanson s'inspire de la chanson paillarde Mélanie de
+				Hymne à la joie et à l'amour. La chanson et un hommage à la chanson paillarde "Mélanie" de
 				Georges Brassens et raconte la vie de la nonne avant les ordres.
 			</p>
 			<p class="text-sm text-gray-700">
@@ -44,9 +44,6 @@
 			</p>
 			<p class="text-sm text-gray-700">
 				<b>Musique :</b> Gilles Le Cornec
-			</p>
-			<p class="text-sm text-gray-700">
-				<b>Vidéo :</b> La mifa Le Cornec
 			</p>
 		</div>
 		<div class="w-full">
@@ -63,17 +60,16 @@
 		<div class="lg:w-1/2">
 			<h1 class="text-7xl font-extralight tracking-wide py-2">Carpe Diem</h1>
 			<p class="text-sm text-gray-700 italic py-1">
-				Cette chanson est une ôde à l'ivresse et a la délivrance. Duo de pochtrons. On pourrait en
-				parler longtemps le but c'est juste d'avoir une introduction a la chanson ici.
+				Première fable illustrée. Une carpe aspirant au chant et à la musique !
 			</p>
 			<p class="text-sm text-gray-700">
-				<b>Paroles :</b> Papa Le Cornec
+				<b>Paroles :</b> Gilles Le Cornec
 			</p>
 			<p class="text-sm text-gray-700">
 				<b>Musique :</b> Gilles Le Cornec
 			</p>
 			<p class="text-sm text-gray-700">
-				<b>Vidéo :</b> Le copain à Guillou
+				<b>Images :</b> Nolwenn Richard
 			</p>
 		</div>
 	</div>
@@ -84,17 +80,13 @@
 		<div class="lg:w-1/2">
 			<h1 class="text-7xl font-extralight tracking-wide py-2">Écrit après la visite d’un bagne</h1>
 			<p class="text-sm text-gray-700 italic py-1">
-				Hymne à la joie et à l'amour. La chanson s'inspire de la chanson paillarde Mélanie de
-				Georges Brassens et raconte la vie de la nonne avant les ordres.
+				Mise en musique d'un texte de Victor Hugo ! Live au Violon Vert !
 			</p>
 			<p class="text-sm text-gray-700">
-				<b>Paroles :</b> Gilles Le Cornec
+				<b>Paroles :</b> Victor Hugo
 			</p>
 			<p class="text-sm text-gray-700">
 				<b>Musique :</b> Gilles Le Cornec
-			</p>
-			<p class="text-sm text-gray-700">
-				<b>Vidéo :</b> La mifa Le Cornec
 			</p>
 		</div>
 		<div class="w-full">
