@@ -18,7 +18,7 @@
 		}
 		{
 			date: new Date(2023, 4, 6, 19, 30),
-			place: 'Brizeux, Quimperlé'
+			place: 'Brizeux, Quimperl\'e'
 		}
 	];
 
