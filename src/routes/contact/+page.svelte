@@ -1,7 +1,7 @@
 <script>
-	import { pageTitle } from './stores.js';
+	import { pageTitle } from '../stores.js';
 
-	$pageTitle = 'chanteurs';
+	$pageTitle = 'contact';
 </script>
 
 <title>Gilles Le Cornec</title>

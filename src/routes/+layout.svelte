@@ -12,7 +12,7 @@
 			</button>
 			<a
 				href="/"
-				class="z-30 text-2xl font-bold {$pageTitle == 'index'
+				class="z-30 text-2xl font-bold {$pageTitle == 'chanteurs'
 					? 'text-sky-600'
 					: 'text-gray-900'} hover:text-red-700">Chanteurs</a
 			>
@@ -36,9 +36,15 @@
 			>
 			<a
 				href="paroles"
-				class="z-30 grow text-2xl font-bold {$pageTitle == 'paroles'
+				class="z-30 text-2xl font-bold {$pageTitle == 'paroles'
 					? 'text-sky-600'
 					: 'text-gray-900'} hover:text-red-700">Paroles</a
+			>
+			<a
+				href="contact"
+				class="z-30 grow text-2xl font-bold {$pageTitle == 'contact'
+					? 'text-sky-600'
+					: 'text-gray-900'} hover:text-red-700">Contact</a
 			>
 		</nav>
 	</div>
