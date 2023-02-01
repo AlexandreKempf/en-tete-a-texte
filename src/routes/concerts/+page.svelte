@@ -23,6 +23,10 @@
 		{
 			date: new Date(2023, 4, 6, 19, 30),
 			place: 'Brizeux, Quimperlé'
+		},
+		{
+			date: new Date(2023, 4, 13, 19, 0),
+			place: 'Bugul Noz Festival, Arzano'
 		}
 	];
 
