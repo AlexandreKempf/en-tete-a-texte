@@ -5,6 +5,10 @@
 	// date start at 0 for months
 	var concerts = [
 		{
+			date: new Date(2023, 2, 1, 19, 30),
+			place: "Beaj Kafe, Brest"
+		},
+		{
 			date: new Date(2023, 2, 17, 20, 0),
 			place: "Brasserie de L'imprimerie, Bannalec"
 		},
