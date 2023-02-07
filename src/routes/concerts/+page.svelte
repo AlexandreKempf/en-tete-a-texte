@@ -6,7 +6,7 @@
 	var concerts = [
 		{	
 			date: new Date(2023, 1, 24, 20, 0),
-			place: 'Cafe Librairie la terrible, Camaret'
+			place: "Cafe Librairie la terrible, Camaret"
 		},
 		{
 			date: new Date(2023, 2, 1, 19, 30),
@@ -18,23 +18,23 @@
 		},
 		{
 			date: new Date(2023, 3, 8, 19, 30),
-			place: 'Chez Cousin, Nizon'
+			place: "Chez Cousin, Nizon"
 		},
 		{
 			date: new Date(2023, 3, 28, 19, 30),
-			place: 'Annivercirque, Quimperlé'
+			place: "Annivercirque, Quimperlé"
 		},
 		{
 			date: new Date(2023, 4, 6, 19, 30),
-			place: 'Brizeux, Quimperlé'
+			place: "Brizeux, Quimperlé"
 		},
 		{
 			date: new Date(2023, 4, 13, 19, 0),
-			place: 'Bugul Noz Festival, Arzano'
+			place: "Bugul Noz Festival, Arzano"
 		},
 		{
 			date: new Date(2023, 7, 20, 19, 0),
-			place: 'Nuit des love shacks, Nizon'
+			place: "Nuit des love shacks, Nizon"
 		}
 	];
 
