@@ -4,6 +4,10 @@
 	$pageTitle = 'concerts';
 	// date start at 0 for months
 	var concerts = [
+		{date: new Date(2023, 1, 24, 20, 0),
+			place: "Café librairie la terrible, Camaret"
+
+		},
 		{
 			date: new Date(2023, 2, 1, 19, 30),
 			place: "Beaj Kafe, Brest"
@@ -13,12 +17,12 @@
 			place: "Brasserie de L'imprimerie, Bannalec"
 		},
 		{
-			date: new Date(2023, 3, 7, 18, 30),
-			place: 'Association Naturaliste, Rennes'
-		},
-		{
 			date: new Date(2023, 3, 8, 19, 30),
 			place: 'Chez Cousin, Nizon'
+		},
+		{
+			date: new Date(2023, 3, 28, 19, 30),
+			place: 'Annivercirque, Quimperlé'
 		},
 		{
 			date: new Date(2023, 4, 6, 19, 30),
@@ -27,6 +31,10 @@
 		{
 			date: new Date(2023, 4, 13, 19, 0),
 			place: 'Bugul Noz Festival, Arzano'
+		},
+		{
+			date: new Date(2023, 7, 20, 19, 0),
+			place: 'Nuit des love shacks, Nizon'
 		}
 	];
 
