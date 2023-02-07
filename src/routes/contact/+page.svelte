@@ -5,7 +5,7 @@
 </script>
 
 <div class="py-32 w-1/2 lg:w-1/3 mx-auto">
-	<img src="carte_visite.jpg" />
+	<img src="carte_visite.jpg" alt="carte visite" />
 	<p class="text-center text-2xl font-bold">Carte de visite</p>
 </div>
 

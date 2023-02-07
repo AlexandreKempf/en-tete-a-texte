@@ -30,13 +30,13 @@
 	</div>
 
 	<div class="max-w-xl xl:w-1/2 xl:max-w-full mx-auto xl:mx-0">
-		<img class="object-cover cropped-1 w-full" src="hero2.jpg" alt="" />
+		<img class="object-cover cropped-1 w-full" src="hero2.jpg" alt="gilles photo" />
 	</div>
 </div>
 
 <div class="relative inline-flex flex-col-reverse xl:flex-row xl:flex w-full pt-10 xl:pt-0">
 	<div class="max-w-xl xl:w-1/2 xl:max-w-full mx-auto xl:mx-0">
-		<img class="object-cover cropped-2 w-full" src="hero3.jpg" alt="" />
+		<img class="object-cover cropped-2 w-full" src="hero3.jpg" alt="kergan photo" />
 	</div>
 	<div class="max-w-3xl xl:w-1/2 p-10 m-auto">
 		<h1 class="relative -left-1 tracking-tight font-extrabold text-6xl">
