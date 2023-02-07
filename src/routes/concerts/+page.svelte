@@ -14,7 +14,7 @@
 		},
 		{
 			date: new Date(2023, 2, 17, 20, 0),
-			place: "Brasserie de L'imprimerie, Bannalec"
+			place: "Brasserie de L\'imprimerie, Bannalec"
 		},
 		{
 			date: new Date(2023, 3, 8, 19, 30),
