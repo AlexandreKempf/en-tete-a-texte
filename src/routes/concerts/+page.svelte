@@ -4,9 +4,9 @@
 	$pageTitle = 'concerts';
 	// date start at 0 for months
 	var concerts = [
-		{date: new Date(2023, 1, 24, 20, 0),
+		{	
+			date: new Date(2023, 1, 24, 20, 0),
 			place: "Café librairie la terrible, Camaret"
-
 		},
 		{
 			date: new Date(2023, 2, 1, 19, 30),
