@@ -33,6 +33,10 @@
 			place: "Bugul Noz Festival, Arzano"
 		},
 		{
+			date: new Date(2023, 5, 24, 19, 0),
+			place: "Fête de la musique, Riec Sur Bélon"
+		},
+		{
 			date: new Date(2023, 7, 20, 19, 0),
 			place: "Nuit des love shacks, Nizon"
 		}
