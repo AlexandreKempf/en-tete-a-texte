@@ -5,6 +5,7 @@ specifiers:
   '@playwright/test': ^1.30.0
   '@sveltejs/adapter-auto': ^1.0.3
   '@sveltejs/kit': ^1.5.0
+  '@vercel/analytics': ^0.1.8
   autoprefixer: ^10.4.13
   eslint: ^8.33.0
   eslint-config-prettier: ^8.6.0
@@ -22,6 +23,7 @@ specifiers:
 
 dependencies:
   '@jridgewell/sourcemap-codec': 1.4.14
+  '@vercel/analytics': 0.1.8
   sveltekit-embed: 0.0.11
 
 devDependencies:
@@ -399,6 +401,12 @@ packages:
     dependencies:
       '@types/node': 18.13.0
     dev: true
+
+  /@vercel/analytics/0.1.8:
+    resolution: {integrity: sha512-PQrOI8BJ9qUiVJuQfnKiJd15eDjDJH9TBKsNeMrtelT4NAk7d9mBVz1CoZkvoFnHQ0OW7Xnqmr1F2nScfAnznQ==}
+    peerDependencies:
+      react: ^16.8||^17||^18
+    dev: false
 
   /acorn-jsx/5.3.2_acorn@8.8.2:
     resolution: {integrity: sha512-rq9s+JNhf0IChjtDXxllJ7g41oZk5SlXtp0LHwyA5cejwn7vKmKp4pPri6YEePv2PU65sAsegbXtIinmDFDXgQ==}
