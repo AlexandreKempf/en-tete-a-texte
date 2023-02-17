@@ -16,7 +16,7 @@
 				</h1>
 
 				<p class="text-xl text-gray-700 mt-5">
-					est auteur, compositeur et interprète de ses chansons depuis quelques années. Épris de
+					est auteur, compositeur et interprète de ses chansons. Épris de
 					science et de littérature, il évolue dans le monde de la recherche en écologie marine
 					pendant cinq années avant de s'en éloigner pour prendre le temps de voyager.
 				</p>
