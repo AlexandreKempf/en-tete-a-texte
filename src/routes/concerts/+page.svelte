@@ -82,7 +82,7 @@
 
 <div class="flex flex-col-reverse lg:flex-row w-full pt-32">
 	<div class="lg:w-1/3 mx-10 lg:mx-auto pt-10 lg:pt-0">
-		<img class="object-cover w-full rounded-xl" src="hero4.jpg" alt="" />
+		<img class="object-cover w-full rounded-xl" src="Cadre.jpg" alt="" />
 	</div>
 	<ol class="lg:w-1/2 pl-10 lg:pl-0">
 		{#each concerts as concert}

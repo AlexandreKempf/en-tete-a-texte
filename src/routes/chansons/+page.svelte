@@ -36,7 +36,7 @@
 		<div class="lg:w-1/2">
 			<h1 class="text-7xl font-extralight tracking-wide py-2">Mélanie</h1>
 			<p class="text-sm text-gray-700 italic py-1">
-				Hymne à la joie et à l'amour. La chanson et un hommage à la chanson paillarde "Mélanie" de
+				Hymne à la joie et à l'amour. La chanson est un hommage à la chanson paillarde "Mélanie" de
 				Georges Brassens et raconte la vie de la nonne avant les ordres.
 			</p>
 			<p class="text-sm text-gray-700">
