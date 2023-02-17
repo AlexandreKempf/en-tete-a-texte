@@ -13,6 +13,10 @@
 			place: "Beaj Kafe, Brest"
 		},
 		{
+			date: new Date(2023, 2, 4, 19, 0),
+			place: "Instant T, Le Pouldu"
+		},
+		{
 			date: new Date(2023, 2, 17, 20, 0),
 			place: "Brasserie de L\'imprimerie, Bannalec"
 		},
