@@ -15,8 +15,8 @@
 		<div class="lg:w-1/2">
 			<h1 class="text-7xl font-extralight tracking-wide py-2">Délivresse</h1>
 			<p class="text-sm text-gray-700 italic py-1">
-				Cette chanson est une ôde à l'ivresse et a la délivrance. Chanson de marin écrite par le padre ! 
-				En direct du Marimba Tyfolie Club.
+				Cette chanson est une ôde à l'ivresse et a la délivrance. Chanson de marin écrite par le
+				padre ! En direct du Marimba Tyfolie Club.
 			</p>
 			<p class="text-sm text-gray-700">
 				<b>Paroles :</b> Pierre Marcel Le Cornec

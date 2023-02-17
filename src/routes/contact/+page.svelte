@@ -4,9 +4,8 @@
 	$pageTitle = 'contact';
 </script>
 
-<div class="py-32 w-1/2 lg:w-1/3 mx-auto">
+<div class="pt-32 w-1/2 lg:w-1/3 mx-auto">
 	<img src="carte_visite.jpg" alt="carte visite" />
-	<p class="text-center text-2xl font-bold">Carte de visite</p>
 </div>
 
 <div class=" w-full flex flex-wrap justify-center items-end">

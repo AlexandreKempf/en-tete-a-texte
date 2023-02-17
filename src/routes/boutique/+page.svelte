@@ -31,4 +31,10 @@
 			<a href="concerts" class="text-red-700">Venez les chercher en concerts !</a>
 		</h1>
 	</div>
+
+	<div class="flex flex-wrap justify-center space-x-7 mt-20 mb-32 mx-auto">
+		<img src="carpe-et-dilemme.jpg" class="w-96" />
+		<img src="1984.jpg" class="w-96" />
+		<img src="cocon-tige.jpg" class="w-96" />
+	</div>
 </div>
