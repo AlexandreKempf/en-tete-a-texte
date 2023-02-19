@@ -26,9 +26,11 @@
 	<div class="inline-flex w-1/2 flex-col">
 		{#if screenSize >= 1550}
 			<nav class="flex items-center gap-2 md:gap-10">
-				<img alt="Menu" src="favicon.jpg" class="h-20 lg:h-32 flex-none" />
+				<a href="/" class="h-20 lg:h-32 flex-none z-30">
+					<img alt="Menu" src="favicon.jpg" class="h-20 lg:h-32 flex-none" />
+				</a>
 				<a
-					href="/"
+					href="chanteurs"
 					class="z-30 text-2xl pt-2 font-bold {$pageTitle == 'chanteurs'
 						? 'text-sky-600'
 						: 'text-gray-900'} hover:text-red-700">Chanteurs</a
@@ -65,13 +67,15 @@
 				>
 			</nav>
 		{:else}
-			<img alt="icon" src="favicon.jpg" class="absolute left-0 top-0 h-20 w-20 lg:h-32 lg:w-32" />
+			<a href="/" class="absolute left-0 top-0 h-20 w-20 lg:h-32 lg:w-32 z-30">
+				<img alt="icon" src="favicon.jpg" class="absolute left-0 top-0 h-20 w-20 lg:h-32 lg:w-32" />
+			</a>
 			{#if navButtonClicked}
 				<div
 					class="absolute right-16 top-10 lg:right-28 lg:top-16 flex flex-col bg-white z-10 border-2 px-10 py-5 rounded-md border-color border-gray-900"
 				>
 					<a
-						href="/"
+						href="chanteurs"
 						class="z-30 text-2xl font-bold {$pageTitle == 'chanteurs'
 							? 'text-sky-600'
 							: 'text-gray-900'} hover:text-red-700">Chanteurs</a

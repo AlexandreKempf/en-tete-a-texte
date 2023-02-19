@@ -1,69 +1,41 @@
 <script>
 	import { pageTitle } from './stores.js';
 
-	$pageTitle = 'chanteurs';
+	$pageTitle = 'acceuil';
 </script>
 
-<title>Gilles Le Cornec</title>
-
-<div class="h-20">
-	<div class="relative w-full xl:flex pt-16 xl:pt-0">
-		<div class="w-full px-10 xl:inline-flex xl:w-1/2 xl:flex-col">
-			<div class="max-w-xl py-10 m-auto">
-				<h1 class="relative -left-1 tracking-tight font-extrabold text-6xl xl:pt-20">
-					<span class="text-sky-700">Gilles</span>
-					<span class="text-gray-900">Le Cornec</span>
-				</h1>
-
-				<p class="text-xl text-gray-700 mt-5">
-					est auteur, compositeur et interprète de ses chansons. Épris de
-					science et de littérature, il évolue dans le monde de la recherche en écologie marine
-					pendant cinq années avant de s'en éloigner pour prendre le temps de voyager.
-				</p>
-
-				<p class="text-xl text-gray-700 mt-5">
-					Océan indien, Asie du sud-est, Afrique de l'ouest influencent sa vision du monde et ses
-					écrits, qu'il décide de mettre en musique. Après son premier duo "Barde à Vous", surtout
-					actif à Belle-île-en-mer, il lance avec son frère Kergann le groupe "En tête à texte",
-					projet de chansons à texte basé en Bretagne.
-				</p>
-			</div>
-		</div>
-
-		<div class="max-w-xl xl:w-1/2 xl:max-w-full mx-auto xl:mx-0">
-			<img class="object-cover cropped-1 w-full" src="hero2.jpg" alt="gilles photo" />
-		</div>
-	</div>
-
-	<div class="relative inline-flex flex-col-reverse xl:flex-row xl:flex w-full pt-10 xl:pt-0">
-		<div class="max-w-xl xl:w-1/2 xl:max-w-full mx-auto xl:mx-0">
-			<img class="object-cover cropped-2 w-full" src="hero3.jpg" alt="kergan photo" />
-		</div>
-		<div class="max-w-3xl xl:w-1/2 p-10 m-auto">
-			<h1 class="relative -left-1 tracking-tight font-extrabold text-6xl">
-				<span class="text-red-700">Kergann</span>
-				<span class="text-gray-900">Le Cornec</span>
-			</h1>
-			<p class="text-xl text-gray-700 mt-5">
-				est musicien, compositeur et interprète depuis sa plus tendre enfance. Très tôt il se met au
-				piano et prête un grand intérêt à l'improvisation. Plus tard il testera tous les instruments
-				qui lui tomberont entre les mains et la guitare restera l'un de ses instruments de
-				prédilection.
-			</p>
-			<p class="text-xl text-gray-700 mt-5">
-				Il est également passionné par les mathématiques et obtient son Doctorat en 2020. Après sa
-				thèse, il décide finalement de s'écarter de la recherche pour se consacrer au groupe, lui
-				permettant ainsi de découvrir le montage son et vidéo et d'étancher sa soif de musique !
-			</p>
-		</div>
-	</div>
+<div class="py-32 lg:py-48 2xl:w-1/2 lg:w-2/3 w-full mx-auto">
+	<img class="rounded-xl mx-auto" src="acceuil.jpg" alt="picture on stage" />
+	<h1 class="my-14 font-extrabold text-5xl text-center">En tête à texte</h1>
+	<p class="mx-5 lg:mx-0 my-8 font-light">
+		En tête à texte est un duo de chanson française, créé début 2021 par deux frères adeptes de
+		poésie et de musique.
+	</p>
+	<p class="mx-5 lg:mx-0 my-8 font-light">
+		Le but du projet ? Faire passer des messages à travers le rire, la colère, la tristesse tout en
+		partageant le goût du texte au public. Selon eux, l'art est une approche sensible qui, en
+		faisant rêver, doit questionner, contester et idéalement fédérer. De facto, de grands concepts
+		tels l'amour, le temps, l'absurdité humaine sont des thématiques récurrentes au sein de leurs
+		compositions et de leurs influences (Brassens, Rostand, La Fontaine).
+	</p>
+	<p class="mx-5 lg:mx-0 my-8 font-light">
+		La poésie se suffisant souvent à elle-même, les moyens de l'habiller sont nombreux, et
+		l'éclectisme est de mise. Une vingtaine de compositions pour quatre-vingt-dix minutes de
+		spectacle, au cours duquel des fables théâtralisées se glissent, les instruments s'échangent et
+		les rythmes et harmonies surprennent. Tous deux pianistes, guitaristes et chanteurs, ils ont su
+		créer un univers musical riche (intervention de beatbox, guimbarde, mélodica) aux influences
+		manouches et folk.
+	</p>
+	<p class="mx-5 lg:mx-0 my-8 font-light">
+		L'année 2022 a été clef pour le groupe, avec la création de leur premier album, de quatre
+		livrets illustrés et du spectacle qui a tourné en Bretagne, dans les bars (notamment du
+		finistère sud et de belle-île-en-mer), les festivals (Plein' R, les Tribus en Folies, fête de la
+		musique) et dans la rue.
+	</p>
+	<p class="mx-5 lg:mx-0 my-8 font-light">
+		À présent, le groupe se tourne également vers des lieux plus intimistes (café-librairie,
+		médiathèque, concert chez l'habitant, festival de conte et de chanson française) à la recherche
+		d'une écoute attentionnée.
+	</p>
+	<p class="mx-5 lg:mx-0 my-8 text-center font-bold">Venez les découvrir !</p>
 </div>
-
-<style>
-	.cropped-1 {
-		clip-path: polygon(30% 0, 0 100%, 100% 100%, 100% 0);
-	}
-	.cropped-2 {
-		clip-path: polygon(0 0, 0 100%, 70% 100%, 100% 0);
-	}
-</style>
