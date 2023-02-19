@@ -2,7 +2,7 @@
 	import { pageTitle } from './stores.js';
 	import { fly } from 'svelte/transition';
 
-	$pageTitle = 'acceuil';
+	$pageTitle = 'accueil';
 </script>
 
 <div class="pt-32">
