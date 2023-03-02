@@ -41,6 +41,10 @@
 			place: "Fête de la musique, Riec Sur Bélon"
 		},
 		{
+			date: new Date(2023, 6, 15, 19, 0),
+			place: "L'Improbable Café, Plestin Les Grèves"
+		},
+		{
 			date: new Date(2023, 7, 20, 19, 0),
 			place: "Nuit des love shacks, Nizon"
 		}
