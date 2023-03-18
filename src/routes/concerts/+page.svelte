@@ -21,10 +21,6 @@
 			place: "Brasserie de L\'imprimerie, Bannalec"
 		},
 		{
-			date: new Date(2023, 3, 8, 19, 30),
-			place: "Chez Cousin, Nizon"
-		},
-		{
 			date: new Date(2023, 3, 28, 19, 30),
 			place: "Annivercirque, Quimperlé"
 		},
@@ -45,9 +41,21 @@
 			place: "L'Improbable Café, Plestin Les Grèves"
 		},
 		{
+			date: new Date(2023, 6, 21, 20, 0),
+			place: "Domaine de Beg Porz, Kerfany Les Pins"
+		},
+		{
+			date: new Date(2023, 7, 4, 20, 0),
+			place: "Domaine de Beg Porz, Kerfany Les Pins"
+		},
+		{
 			date: new Date(2023, 7, 20, 19, 0),
 			place: "Nuit des love shacks, Nizon"
-		}
+		},
+		{
+			date: new Date(2023, 7, 25, 20, 0),
+			place: "Domaine de Beg Porz, Kerfany Les Pins"
+		},
 	];
 
 	var today = new Date();
