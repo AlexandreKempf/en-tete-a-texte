@@ -10,7 +10,7 @@
 		},
 		{
 			date: new Date(2023, 4, 6, 16, 30),
-			place: "Percu Corporelle, Quimperlé"
+			place: "Percu Corporelle (Gilles), Quimperlé"
 		},
 		{
 			date: new Date(2023, 4, 6, 19, 30),
@@ -22,7 +22,7 @@
 		},
 		{
 			date: new Date(2023, 4, 14, 19, 0),
-			place: "Fête de la tente, Bannalec"
+			place: "Fête de la tente*, Bannalec"
 		},
 		{
 			date: new Date(2023, 4, 19, 19, 0),
