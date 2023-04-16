@@ -46,11 +46,11 @@
 		},
 		{
 			date: new Date(2023, 5, 17, 19, 0),
-			place: "Arzano, Arzano"
+			place: "*Arzano, Arzano"
 		},
 		{
 			date: new Date(2023, 5, 18, 19, 0),
-			place: "Fête Pépinière, Bannalec"
+			place: "*Fête Pépinière, Bannalec"
 		},
 		{
 			date: new Date(2023, 5, 24, 19, 0),
