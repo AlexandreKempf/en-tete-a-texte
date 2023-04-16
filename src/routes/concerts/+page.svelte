@@ -4,25 +4,13 @@
 	$pageTitle = 'concerts';
 	// date start at 0 for months
 	var concerts = [
-		{	
-			date: new Date(2023, 1, 24, 20, 0),
-			place: "Cafe Librairie la terrible, Camaret"
-		},
-		{
-			date: new Date(2023, 2, 1, 19, 30),
-			place: "Beaj Kafe, Brest"
-		},
-		{
-			date: new Date(2023, 2, 4, 19, 0),
-			place: "Instant T, Le Pouldu"
-		},
-		{
-			date: new Date(2023, 2, 17, 20, 0),
-			place: "Brasserie de L\'imprimerie, Bannalec"
-		},
 		{
 			date: new Date(2023, 3, 28, 19, 30),
 			place: "Annivercirque, Quimperlé"
+		},
+		{
+			date: new Date(2023, 4, 6, 16, 30),
+			place: "Percu Corporelle, Quimperlé"
 		},
 		{
 			date: new Date(2023, 4, 6, 19, 30),
@@ -31,6 +19,38 @@
 		{
 			date: new Date(2023, 4, 13, 19, 0),
 			place: "Bugul Noz Festival, Arzano"
+		},
+		{
+			date: new Date(2023, 4, 14, 19, 0),
+			place: "Fête de la tente, Bannalec"
+		},
+		{
+			date: new Date(2023, 4, 19, 19, 0),
+			place: "Mariage Privé, Trévignon"
+		},
+		{
+			date: new Date(2023, 4, 26, 19, 0),
+			place: "La Cave, Moëlan Sur Mer"
+		},
+		{
+			date: new Date(2023, 4, 27, 19, 0),
+			place: "Fête Privé, Bannalec"
+		},
+		{
+			date: new Date(2023, 4, 28, 19, 0),
+			place: "Festival de Conte, Plouray"
+		},
+		{
+			date: new Date(2023, 5, 3, 19, 0),
+			place: "La Chapelle, Locminé"
+		},
+		{
+			date: new Date(2023, 5, 17, 19, 0),
+			place: "Arzano, Arzano"
+		},
+		{
+			date: new Date(2023, 5, 18, 19, 0),
+			place: "Fête Pépinière, Bannalec"
 		},
 		{
 			date: new Date(2023, 5, 24, 19, 0),
