@@ -22,7 +22,7 @@
 		},
 		{
 			date: new Date(2023, 4, 14, 19, 0),
-			place: "*Fête de la tente, Bannalec"
+			place: "*Fête de la tonte, Bannalec"
 		},
 		{
 			date: new Date(2023, 4, 19, 19, 0),
