@@ -17,6 +17,10 @@
 			place: "Brizeux, Quimperlé"
 		},
 		{
+			date: new Date(2023, 4, 12, 22, 0),
+			place: "Soirée à la grande salle Yhuel, Arzano"
+		},
+		{
 			date: new Date(2023, 4, 13, 19, 0),
 			place: "Bugul Noz Festival, Arzano"
 		},
