@@ -5,34 +5,6 @@
 	// date start at 0 for months
 	var concerts = [
 		{
-			date: new Date(2023, 3, 28, 19, 30),
-			place: "Annivercirque, Quimperlé"
-		},
-		{
-			date: new Date(2023, 4, 6, 16, 30),
-			place: "Percu Corporelle (Gilles), Quimperlé"
-		},
-		{
-			date: new Date(2023, 4, 6, 19, 30),
-			place: "Brizeux, Quimperlé"
-		},
-		{
-			date: new Date(2023, 4, 12, 22, 0),
-			place: "Soirée à la grande salle Yhuel, Arzano"
-		},
-		{
-			date: new Date(2023, 4, 13, 19, 0),
-			place: "Bugul Noz Festival, Arzano"
-		},
-		{
-			date: new Date(2023, 4, 14, 16, 0),
-			place: "Fête de la tonte, Bannalec"
-		},
-		{
-			date: new Date(2023, 4, 19, 19, 0),
-			place: "Mariage Privé, Trévignon"
-		},
-		{
 			date: new Date(2023, 4, 26, 19, 0),
 			place: "La Cave, Moëlan Sur Mer"
 		},
