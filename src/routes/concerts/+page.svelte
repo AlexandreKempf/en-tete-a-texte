@@ -38,27 +38,27 @@
 		},
 		{
 			date: new Date(2023, 4, 27, 19, 0),
-			place: "Fête Privé, Bannalec"
+			place: "Fête Privé Castel Reuz, Bannalec"
 		},
 		{
-			date: new Date(2023, 4, 28, 19, 0),
-			place: "Festival de Conte, Plouray"
-		},
-		{
-			date: new Date(2023, 5, 3, 19, 0),
-			place: "La Chapelle, Locminé"
+			date: new Date(2023, 4, 28, 21, 0),
+			place: "Festival Coeur de Conte, Plouray"
 		},
 		{
 			date: new Date(2023, 5, 17, 19, 0),
-			place: "*Arzano, Arzano"
+			place: "Boeuf de Lélé, Arzano"
 		},
 		{
-			date: new Date(2023, 5, 18, 19, 0),
-			place: "*Fête Pépinière, Bannalec"
+			date: new Date(2023, 5, 18, 17, 0),
+			place: "Portes ouvertes des Jardins de Kermerour, Bannalec"
 		},
 		{
 			date: new Date(2023, 5, 24, 19, 0),
 			place: "Fête de la musique, Riec Sur Bélon"
+		},
+		{
+			date: new Date(2023, 6, 7, 22, 30),
+			place: "Compagnie Kaboom, Lanvénégen"
 		},
 		{
 			date: new Date(2023, 6, 13, 19, 0),
@@ -77,7 +77,15 @@
 			place: "Domaine de Beg Porz, Kerfany Les Pins"
 		},
 		{
-			date: new Date(2023, 7, 20, 19, 0),
+			date: new Date(2023, 7, 5, 18, 0),
+			place: "Fête Village, Kerbors"
+		},
+		{
+			date: new Date(2023, 7, 18, 22, 30),
+			place: "Compagnie Kaboom, Lanvénégen"
+		},
+		{
+			date: new Date(2023, 7, 19, 16, 0),
 			place: "Nuit des love shacks, Nizon"
 		},
 		{
