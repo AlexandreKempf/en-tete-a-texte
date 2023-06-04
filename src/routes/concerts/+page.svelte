@@ -18,7 +18,7 @@
 		},
 		{
 			date: new Date(2023, 5, 17, 19, 0),
-			place: "Boeuf de L(éllé, Arzano"
+			place: "Boeuf de L'éllé, Arzano"
 		},
 		{
 			date: new Date(2023, 5, 18, 17, 0),
