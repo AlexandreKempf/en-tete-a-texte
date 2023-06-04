@@ -18,7 +18,7 @@
 		},
 		{
 			date: new Date(2023, 5, 17, 19, 0),
-			place: "Boeuf de Lélé, Arzano"
+			place: "Boeuf de L(éllé, Arzano"
 		},
 		{
 			date: new Date(2023, 5, 18, 17, 0),
@@ -49,7 +49,11 @@
 			place: "Domaine de Beg Porz, Kerfany Les Pins"
 		},
 		{
-			date: new Date(2023, 7, 5, 18, 0),
+			date: new Date(2023, 7, 6, 18, 0),
+			place: "Salle des Fête , Plouguiel"
+		},
+		{
+			date: new Date(2023, 7, 6, 18, 0),
 			place: "Fête Village, Kerbors"
 		},
 		{
