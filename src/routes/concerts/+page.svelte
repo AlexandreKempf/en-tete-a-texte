@@ -13,7 +13,7 @@
 			place: "CI ORTF Beg Meil, Fouenant"
 		},
 		{
-			date: new Date(2023, 6, 7, 22, 30),
+			date: new Date(2023, 6, 8, 22, 30),
 			place: "Compagnie Kaboom, Lanvénégen"
 		},
 		{
