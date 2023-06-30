@@ -5,28 +5,12 @@
 	// date start at 0 for months
 	var concerts = [
 		{
-			date: new Date(2023, 4, 26, 19, 0),
-			place: "La Cave, Moëlan Sur Mer"
-		},
-		{
-			date: new Date(2023, 4, 27, 19, 0),
-			place: "Fête Privé Castel Reuz, Bannalec"
-		},
-		{
-			date: new Date(2023, 4, 28, 21, 0),
-			place: "Festival Coeur de Conte, Plouray"
-		},
-		{
-			date: new Date(2023, 5, 17, 19, 0),
-			place: "Boeuf de L'éllé, Arzano"
-		},
-		{
-			date: new Date(2023, 5, 18, 17, 0),
-			place: "Portes ouvertes des Jardins de Kermerour, Bannalec"
-		},
-		{
 			date: new Date(2023, 5, 24, 19, 0),
 			place: "Fête de la musique, Riec Sur Bélon"
+		},
+		{
+			date: new Date(2023, 6, 4, 20, 0),
+			place: "CI ORTF Beg Meil, Fouenant"
 		},
 		{
 			date: new Date(2023, 6, 7, 22, 30),
@@ -45,6 +29,10 @@
 			place: "Domaine de Beg Porz, Kerfany Les Pins"
 		},
 		{
+			date: new Date(2023, 6, 22, 19, 0),
+			place: "Ferme, Saint Yvi"
+		},
+		{
 			date: new Date(2023, 7, 4, 20, 0),
 			place: "Domaine de Beg Porz, Kerfany Les Pins"
 		},
@@ -57,7 +45,7 @@
 			place: "Fête Village, Kerbors"
 		},
 		{
-			date: new Date(2023, 7, 18, 22, 30),
+			date: new Date(2023, 7, 20, 22, 30),
 			place: "Compagnie Kaboom, Lanvénégen"
 		},
 		{
