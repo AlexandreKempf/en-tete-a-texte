@@ -45,13 +45,14 @@
 			place: "Fête Village, Kerbors"
 		},
 		{
-			date: new Date(2023, 7, 20, 22, 30),
-			place: "Compagnie Kaboom, Lanvénégen"
-		},
-		{
 			date: new Date(2023, 7, 19, 16, 0),
 			place: "Nuit des love shacks, Nizon"
 		},
+		{
+			date: new Date(2023, 7, 20, 22, 30),
+			place: "Compagnie Kaboom, Lanvénégen"
+		},
+		
 		{
 			date: new Date(2023, 7, 25, 20, 0),
 			place: "Domaine de Beg Porz, Kerfany Les Pins"
