@@ -29,8 +29,8 @@
 			place: "Domaine de Beg Porz, Kerfany Les Pins"
 		},
 		{
-			date: new Date(2023, 6, 22, 19, 0),
-			place: "Ferme, Saint Yvi"
+			date: new Date(2023, 6, 22, 18, 0),
+			place: "Ferme de Keranmevel, Saint Yvi"
 		},
 		{
 			date: new Date(2023, 7, 4, 20, 0),
