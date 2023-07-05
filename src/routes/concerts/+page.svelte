@@ -33,6 +33,10 @@
 			place: "Ferme de Keranmevel, Saint Yvi"
 		},
 		{
+			date: new Date(2023, 6, 28, 18, 0),
+			place: "A l'abri de l'océan, Baye"
+		},
+		{
 			date: new Date(2023, 7, 4, 20, 0),
 			place: "Domaine de Beg Porz, Kerfany Les Pins"
 		},
@@ -43,6 +47,10 @@
 		{
 			date: new Date(2023, 7, 6, 18, 0),
 			place: "Fête Village, Kerbors"
+		},
+		{
+			date: new Date(2023, 7, 11, 19, 0),
+			place: "Le Bar Bichette, Trégunc"
 		},
 		{
 			date: new Date(2023, 7, 19, 16, 0),
