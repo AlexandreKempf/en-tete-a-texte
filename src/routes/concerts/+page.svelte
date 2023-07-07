@@ -14,7 +14,7 @@
 		},
 		{
 			date: new Date(2023, 6, 8, 22, 30),
-			place: "Compagnie Kaboom, Lanvénégen"
+			place: "Compagnie Kaboum, Lanvénégen"
 		},
 		{
 			date: new Date(2023, 6, 13, 19, 0),
@@ -58,7 +58,7 @@
 		},
 		{
 			date: new Date(2023, 7, 20, 22, 30),
-			place: "Compagnie Kaboom, Lanvénégen"
+			place: "Compagnie Kaboum, Lanvénégen"
 		},
 		
 		{
