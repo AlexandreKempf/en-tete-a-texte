@@ -5,14 +5,6 @@
 	// date start at 0 for months
 	var concerts = [
 		{
-			date: new Date(2023, 5, 24, 19, 0),
-			place: "Fête de la musique, Riec Sur Bélon"
-		},
-		{
-			date: new Date(2023, 6, 4, 20, 0),
-			place: "CI ORTF Beg Meil, Fouenant"
-		},
-		{
 			date: new Date(2023, 6, 8, 22, 30),
 			place: "Compagnie Kaboum, Lanvénégen"
 		},
@@ -51,6 +43,10 @@
 		{
 			date: new Date(2023, 7, 11, 19, 0),
 			place: "Le Bar Bichette, Trégunc"
+		},
+		{
+			date: new Date(2023, 7, 12, 19, 0),
+			place: "Le Melar Dit, Locmélar"
 		},
 		{
 			date: new Date(2023, 7, 19, 16, 0),
