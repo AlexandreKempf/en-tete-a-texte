@@ -56,11 +56,23 @@
 			date: new Date(2023, 7, 20, 22, 30),
 			place: "Compagnie Kaboum, Lanvénégen"
 		},
-		
+		{
+			date: new Date(2023, 7, 25, 14, 0),
+			place: "Festival, Névez"
+		},
 		{
 			date: new Date(2023, 7, 25, 20, 0),
 			place: "Domaine de Beg Porz, Kerfany Les Pins"
 		},
+		{
+			date: new Date(2023, 7, 26, 19, 0),
+			place: "Festival, Clohars Carnoet"
+		},
+		{
+			date: new Date(2023, 7, 30, 19, 0),
+			place: "CIORTF, Beg Meil"
+		},
+
 	];
 
 	var today = new Date();
