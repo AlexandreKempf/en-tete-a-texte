@@ -66,7 +66,7 @@
 		},
 		{
 			date: new Date(2023, 7, 26, 19, 0),
-			place: "Festival, Clohars Carnoet"
+			place: "Disjonct'Fest , Clohars Carnoet"
 		},
 		{
 			date: new Date(2023, 7, 30, 19, 0),
