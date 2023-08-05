@@ -33,11 +33,15 @@
 			place: "Domaine de Beg Porz, Kerfany Les Pins"
 		},
 		{
-			date: new Date(2023, 7, 5, 18, 0),
+			date: new Date(2023, 7, 5, 19, 0),
 			place: "Salle des Fête , Plouguiel"
 		},
 		{
-			date: new Date(2023, 7, 6, 18, 0),
+			date: new Date(2023, 7, 6, 14, 0),
+			place: "Fête Village, Kerbors"
+		},
+		{
+			date: new Date(2023, 7, 6, 17, 0),
 			place: "Fête Village, Kerbors"
 		},
 		{
