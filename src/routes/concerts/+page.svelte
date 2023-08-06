@@ -37,7 +37,7 @@
 			place: "Salle des Fête , Plouguiel"
 		},
 		{
-			date: new Date(2023, 7, 6, 14, 0),
+			date: new Date(2023, 7, 6, 13, 0),
 			place: "Fête Village, Kerbors"
 		},
 		{
