@@ -4,53 +4,14 @@
 	$pageTitle = 'concerts';
 	// date start at 0 for months
 	var concerts = [
-		{
-			date: new Date(2023, 6, 8, 22, 30),
-			place: "Compagnie Kaboum, Lanvénégen"
-		},
-		{
-			date: new Date(2023, 6, 13, 19, 0),
-			place: "Kistin Café, Runan"
-		},
-		{
-			date: new Date(2023, 6, 15, 19, 0),
-			place: "L'Improbable Café, Plestin Les Grèves"
-		},
-		{
-			date: new Date(2023, 6, 21, 20, 0),
-			place: "Domaine de Beg Porz, Kerfany Les Pins"
-		},
-		{
-			date: new Date(2023, 6, 22, 18, 0),
-			place: "Ferme de Keranmevel, Saint Yvi"
-		},
-		{
-			date: new Date(2023, 6, 28, 18, 0),
-			place: "A l'abri de l'océan, Baye"
-		},
-		{
-			date: new Date(2023, 7, 4, 20, 0),
-			place: "Domaine de Beg Porz, Kerfany Les Pins"
-		},
-		{
-			date: new Date(2023, 7, 5, 19, 0),
-			place: "Salle des Fête , Plouguiel"
-		},
-		{
-			date: new Date(2023, 7, 6, 13, 0),
-			place: "Fête Village, Kerbors"
-		},
-		{
-			date: new Date(2023, 7, 6, 17, 0),
-			place: "Fête Village, Kerbors"
-		},
-		{
-			date: new Date(2023, 7, 11, 19, 0),
-			place: "Le Bar Bichette, Trégunc"
-		},
+		
 		{
 			date: new Date(2023, 7, 12, 19, 0),
 			place: "Le Melar Dit, Locmélar"
+		},
+		{
+			date: new Date(2023, 7, 18, 18, 0),
+			place: "A l'abri de l'océan, Baye"
 		},
 		{
 			date: new Date(2023, 7, 19, 16, 0),
