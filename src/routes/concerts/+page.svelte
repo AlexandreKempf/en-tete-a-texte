@@ -10,8 +10,8 @@
 			place: "Le Melar Dit, Locmélar"
 		},
 		{
-			date: new Date(2023, 7, 18, 18, 0),
-			place: "A l'abri de l'océan, Baye"
+			date: new Date(2023, 7, 18, 19, 0),
+			place: "Le Bar Bichette, Trégunc"
 		},
 		{
 			date: new Date(2023, 7, 19, 16, 0),
@@ -22,8 +22,8 @@
 			place: "Compagnie Kaboum, Lanvénégen"
 		},
 		{
-			date: new Date(2023, 7, 25, 14, 0),
-			place: "Festival, Névez"
+			date: new Date(2023, 7, 25, 18, 0),
+			place: "A l'abri de l'océan, Baye"
 		},
 		{
 			date: new Date(2023, 7, 25, 20, 0),
@@ -32,6 +32,10 @@
 		{
 			date: new Date(2023, 7, 26, 19, 0),
 			place: "Disjonct'Fest , Clohars Carnoet"
+		},
+		{
+			date: new Date(2023, 7, 27, 13, 0),
+			place: "Festival Voulez-vous vivre ?, Névez"
 		},
 		{
 			date: new Date(2023, 7, 30, 19, 0),
