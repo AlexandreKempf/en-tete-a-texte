@@ -38,7 +38,11 @@
 			place: "Festival Voulez-vous vivre ?, Névez"
 		},
 		{
-			date: new Date(2023, 7, 30, 19, 0),
+			date: new Date(2023, 7, 27, 16, 0),
+			place: "Ferme au 10 vaches, Querrien"
+		},
+		{
+			date: new Date(2023, 8, 20, 19, 0),
 			place: "CIORTF, Beg Meil"
 		},
 
