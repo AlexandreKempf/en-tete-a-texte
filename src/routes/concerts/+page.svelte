@@ -6,44 +6,12 @@
 	var concerts = [
 		
 		{
-			date: new Date(2023, 7, 12, 19, 0),
-			place: "Le Melar Dit, Locmélar"
+			date: new Date(2023, 10, 11 , 20, 0),
+			place: "Le Ptit Bar Contrevent, Tréguidel"
 		},
 		{
-			date: new Date(2023, 7, 18, 19, 0),
-			place: "Le Bar Bichette, Trégunc"
-		},
-		{
-			date: new Date(2023, 7, 19, 16, 0),
-			place: "Nuit des love shacks, Nizon"
-		},
-		{
-			date: new Date(2023, 7, 20, 22, 30),
-			place: "Compagnie Kaboum, Lanvénégen"
-		},
-		{
-			date: new Date(2023, 7, 25, 18, 0),
-			place: "A l'abri de l'océan, Baye"
-		},
-		{
-			date: new Date(2023, 7, 25, 20, 0),
-			place: "Domaine de Beg Porz, Kerfany Les Pins"
-		},
-		{
-			date: new Date(2023, 7, 26, 19, 0),
-			place: "Disjonct'Fest , Clohars Carnoet"
-		},
-		{
-			date: new Date(2023, 7, 27, 13, 0),
-			place: "Festival Voulez-vous vivre ?, Névez"
-		},
-		{
-			date: new Date(2023, 7, 27, 16, 0),
-			place: "Ferme au 10 vaches, Querrien"
-		},
-		{
-			date: new Date(2023, 8, 20, 19, 0),
-			place: "CIORTF, Beg Meil"
+			date: new Date(2023, 11, 1 , 20, 0),
+			place: " La Guinguette de Croas An Ter , Clohars"
 		},
 
 	];
