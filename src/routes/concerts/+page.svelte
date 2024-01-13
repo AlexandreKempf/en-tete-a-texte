@@ -48,6 +48,10 @@
 			date: new Date(2024,3,7,15),
 			place: "Festival Chanson de Café, Pornic"
 		}
+		{
+			date: new Date(2024,3,19,19),
+			place: ", Plouha"
+		}
 
 
 
