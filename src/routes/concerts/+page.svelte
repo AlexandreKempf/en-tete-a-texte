@@ -6,13 +6,50 @@
 	var concerts = [
 		
 		{
-			date: new Date(2023, 10, 11 , 20, 0),
-			place: "Le Ptit Bar Contrevent, Tréguidel"
-		},
-		{
 			date: new Date(2023, 11, 1 , 20, 0),
 			place: " La Guinguette de Croas An Ter , Clohars"
 		},
+
+		{
+			date: new Date(2024, 0, 14, 14, 0),
+			place: "L'annexe 23, Moëlan"
+			
+		},
+		{
+			date: new Date(2024, 0, 27, 20, 0),
+			place: "La maison, Lanvéoc"
+			
+		},
+		{
+			date: new Date(2024, 0, 28, 20, 0),
+			place: "Café de la gare, Landerneau"
+			
+		},
+
+		{
+			date: new Date(2024, 1, 17, 19, 0),
+			place: "Fête privé, Rennes"
+			
+		},
+		{
+			date: new Date(2024, 2, 14, 14, 0),
+			place: "Café Breton, Perros-Guirec"
+			
+		},
+		{
+			date: new Date(2024,3,5,18),
+			place: "Festival Chanson de Café, Pornic"
+		},
+		{
+			date: new Date(2024,3,6,18),
+			place: "Festival Chanson de Café, Pornic"
+		},
+		{
+			date: new Date(2024,3,7,15),
+			place: "Festival Chanson de Café, Pornic"
+		}
+
+
 
 	];
 
