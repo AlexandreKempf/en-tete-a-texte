@@ -21,7 +21,7 @@
 			
 		},
 		{
-			date: new Date(2024, 0, 28, 20, 0),
+			date: new Date(2024, 0, 28, 17, 0),
 			place: "Café de la gare, Landerneau"
 			
 		},
