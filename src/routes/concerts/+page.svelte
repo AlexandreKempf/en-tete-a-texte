@@ -25,6 +25,13 @@
 			place: "Café de la gare, Landerneau"
 			
 		},
+
+		{
+			date: new Date(2024, 1, 10, 19, 0),
+			place: "Salle des Fêtes, douarnenez"
+			
+		},
+
 		{
 			date: new Date(2024, 1, 14, 19, 0),
 			place: "le Gortozen, Landerneau"
