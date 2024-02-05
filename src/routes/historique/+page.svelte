@@ -1,7 +1,7 @@
 <script>
 	import { pageTitle } from '../stores.js';
 
-	$pageTitle = 'concerts';
+	$pageTitle = 'historique';
 	// date start at 0 for months
 	var concerts = [
 		
