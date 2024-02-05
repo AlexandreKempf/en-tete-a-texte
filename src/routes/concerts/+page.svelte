@@ -28,7 +28,7 @@
 
 		{
 			date: new Date(2024, 1, 10, 19, 0),
-			place: "Salle des Fêtes, douarnenez"
+			place: "Salle des Fêtes, Douarnenez"
 			
 		},
 
