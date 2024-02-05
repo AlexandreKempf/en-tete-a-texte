@@ -26,11 +26,7 @@
 			
 		},
 
-		{
-			date: new Date(2024, 1, 10, 19, 0),
-			place: "Salle des Fêtes, Douarnenez"
-			
-		},
+		
 
 		{
 			date: new Date(2024, 1, 14, 19, 0),
@@ -40,6 +36,11 @@
 		{
 			date: new Date(2024, 1, 17, 19, 0),
 			place: "Fête privé, Rennes"
+			
+		},
+		{
+			date: new Date(2024, 1, 18, 19, 0),
+			place: "Salle des Fêtes, Douarnenez"
 			
 		},
 		{
