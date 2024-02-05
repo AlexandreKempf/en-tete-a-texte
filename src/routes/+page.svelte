@@ -30,7 +30,7 @@
 		<p class="mx-5 lg:mx-0 my-5 font-light text-xl">
 			Les années 2022 et 2023 ont été clefs pour le groupe, avec la création de leur premier album, de cinq
 			livrets illustrés, avec des passages radio (radio Balise, Bill-en-mer, Brassens) et plusieurs articles de presse. 
-			Le spectacle a quand à lui tourné dans des festivals (Bugul Noz, Coeur de Contes, La campana, Nuit des Love Shacks, Disjonct'Fest, Voulez-vous vivre, Rives de nuit, Festival de chanson de café), des bars, des fermes, notamment dans
+			Le spectacle a quand à lui tourné dans des festivals (Bugul Noz, Coeur de Contes, La Campana, Nuit des Love Shacks, Disjonct'Fest, Voulez-vous vivre, Rives de nuit, Festival de chanson de café), des bars, des fermes, notamment dans
 			le finistère sud.
 		</p>
 		<p class="mx-5 lg:mx-0 my-5 font-light text-xl">
