@@ -28,13 +28,13 @@
 			influences manouches et folk.
 		</p>
 		<p class="mx-5 lg:mx-0 my-5 font-light text-xl">
-			L'année 2022 a été clef pour le groupe, avec la création de leur premier album, de quatre
-			livrets illustrés et du spectacle qui a tourné en Bretagne, dans les bars (notamment du
-			finistère sud et de belle-île-en-mer), les festivals (Plein' R, les Tribus en Folies, fête de
-			la musique) et dans la rue.
+			Les années 2022 et 2023 ont été clefs pour le groupe, avec la création de leur premier album, de cinq
+			livrets illustrés, avec des passages radio (radio Balise, Bill-en-mer, Brassens) et plusieurs articles de presse. 
+			Le spectacle a quand à lui tourné dans des festivals (Bugul Noz, Coeur de Contes, La campana, Nuit des Love Shacks, Disjonct'Fest, Voulez-vous vivre, Rives de nuit, Festival de chanson de café), des bars, des fermes, notamment dans
+			le finistère sud.
 		</p>
 		<p class="mx-5 lg:mx-0 my-5 font-light text-xl">
-			À présent, le groupe se tourne également vers des lieux plus intimistes (café-librairie,
+			À présent, les compères sont intermitents du spectacle et le groupe se tourne vers des lieux plus intimistes (café-librairie,
 			médiathèque, concert chez l'habitant, festival de conte et de chanson française) à la
 			recherche d'une écoute attentionnée.
 		</p>
