@@ -46,6 +46,7 @@
 					class="z-30 text-2xl pt-2 font-bold {$pageTitle == 'concerts'
 						? 'text-sky-600'
 						: 'text-gray-900'} hover:text-red-700">Concerts</a
+				>
 				<a
 					href="chansons"
 					class="z-30 text-2xl pt-2 font-bold {$pageTitle == 'chansons'
