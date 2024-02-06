@@ -48,6 +48,12 @@
 						: 'text-gray-900'} hover:text-red-700">Concerts</a
 				>
 				<a
+					href="historique"
+					class="z-30 text-2xl pt-2 font-bold {$pageTitle == 'historique'
+						? 'text-sky-600'
+						: 'text-gray-900'} hover:text-red-700">Historique</a
+				>
+				<a
 					href="chansons"
 					class="z-30 text-2xl pt-2 font-bold {$pageTitle == 'chansons'
 						? 'text-sky-600'
@@ -91,6 +97,12 @@
 						class="z-30 text-2xl font-bold {$pageTitle == 'concerts'
 							? 'text-sky-600'
 							: 'text-gray-900'} hover:text-red-700">Concerts</a
+					>
+					<a
+						href="historique"
+						class="z-30 text-2xl font-bold {$pageTitle == 'historiques'
+							? 'text-sky-600'
+							: 'text-gray-900'} hover:text-red-700">Historique</a
 					>
 					<a
 						href="chansons"
