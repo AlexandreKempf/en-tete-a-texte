@@ -37,7 +37,7 @@
 		},
 		{
 			date: new Date(2024, 1, 18, 19, 0),
-			place: "Salle des Fêtes, Douarnenez"
+			place: "Salle des Fêtes, Tréguennec"
 			
 		},
 		{
