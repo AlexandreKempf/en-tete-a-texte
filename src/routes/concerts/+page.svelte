@@ -60,7 +60,7 @@
 		{
 			date: new Date(2024,3,19,19),
 			place: ", Plouha"
-		}
+		},
 		{
 			date: new Date(2024,6,11,19),
 			place: "Salle des Fêtes, Lezardrieux"
