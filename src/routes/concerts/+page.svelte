@@ -36,7 +36,7 @@
 			
 		},
 		{
-			date: new Date(2024, 1, 18c, 19, 0),
+			date: new Date(2024, 1, 23, 19, 0),
 			place: "Salle des Fêtes, Tréguennec"
 			
 		},
