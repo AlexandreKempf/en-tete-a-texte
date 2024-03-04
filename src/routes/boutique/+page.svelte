@@ -33,8 +33,8 @@
 	</div>
 
 	<div class="flex flex-wrap justify-center space-x-7 mt-20 mb-32 mx-auto">
-		<img src="carpe-et-dilemme.jpg" class="w-96" />
-		<img src="1984.jpg" class="w-96" />
-		<img src="cocon-tige.jpg" class="w-96" />
+		<img src="tortue.jpg" class="w-96" />
+		<img src="cocon.jpg" class="w-96" />
+		<img src="malice.jpg" class="w-96" />
 	</div>
 </div>

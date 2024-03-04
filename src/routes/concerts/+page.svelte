@@ -5,26 +5,7 @@
 	// date start at 0 for months
 	var concerts = [
 		
-		{
-			date: new Date(2023, 11, 1 , 20, 0),
-			place: " La Guinguette de Croas An Ter , Clohars"
-		},
-
-		{
-			date: new Date(2024, 0, 14, 14, 0),
-			place: "L'annexe 23, Moëlan"
-			
-		},
-		{
-			date: new Date(2024, 0, 27, 21, 0),
-			place: "La maison, Lanvéoc"
-			
-		},
-		{
-			date: new Date(2024, 0, 28, 17, 0),
-			place: "Café de la gare, Landerneau"
-			
-		},	
+	
 		{
 			date: new Date(2024, 1, 14, 19, 0),
 			place: "le Gortozen, Landerneau"
@@ -41,8 +22,13 @@
 			
 		},
 		{
-			date: new Date(2024, 2, 14, 14, 0),
+			date: new Date(2024, 2, 14, 20, 30),
 			place: "Café Breton, Perros-Guirec"
+			
+		},
+		{
+			date: new Date(2024, 2, 16, 20, 0),
+			place: "Fête privé, Lézardrieux"
 			
 		},
 		{
