@@ -27,6 +27,11 @@
 			
 		},
 		{
+			date: new Date(2024, 2, 15, 20, 0),
+			place: "Le Relais, Lanmodez"
+			
+		},
+		{
 			date: new Date(2024, 2, 16, 20, 0),
 			place: "Fête privé, Lézardrieux"
 			
