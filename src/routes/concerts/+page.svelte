@@ -49,8 +49,12 @@
 			place: "Festival Chanson de Café, Pornic"
 		},
 		{
+			date: new Date(2024,3,12,20),
+			place: "Sous Reservation, Pont-Aven"
+		},
+		{
 			date: new Date(2024,3,19,19),
-			place: ", Plouha"
+			place: "Salle de l'Hermine, Plouha"
 		},
 		{
 			date: new Date(2024,6,11,19),
