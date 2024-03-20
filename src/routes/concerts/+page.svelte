@@ -7,21 +7,6 @@
 		
 	
 		{
-			date: new Date(2024, 1, 14, 19, 0),
-			place: "le Gortozen, Landerneau"
-			
-		},
-		{
-			date: new Date(2024, 1, 17, 19, 0),
-			place: "Fête privé, Rennes"
-			
-		},
-		{
-			date: new Date(2024, 1, 23, 19, 0),
-			place: "Salle des Fêtes, Tréguennec"
-			
-		},
-		{
 			date: new Date(2024, 2, 14, 20, 30),
 			place: "Café Breton, Perros-Guirec"
 			
@@ -29,11 +14,6 @@
 		{
 			date: new Date(2024, 2, 15, 20, 0),
 			place: "Le Relais, Lanmodez"
-			
-		},
-		{
-			date: new Date(2024, 2, 16, 20, 0),
-			place: "Fête privé, Lézardrieux"
 			
 		},
 		{
@@ -55,6 +35,11 @@
 		{
 			date: new Date(2024,3,19,19),
 			place: "Salle de l'Hermine, Plouha"
+		},
+		{
+			date: new Date(2024, 3, 20, 20, 0),
+			place: "Fête privé, Lézardrieux"
+			
 		},
 		{
 			date: new Date(2024,6,11,19),

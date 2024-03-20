@@ -64,7 +64,12 @@
 		{
 			date: new Date(2024,3,19,19),
 			place: "Salle de L'Hermine, Plouha"
-		}
+		},
+		{
+			date: new Date(2024, 3, 20, 20, 0),
+			place: "Fête privé, Lézardrieux"
+			
+		},
 
 
 
