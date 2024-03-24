@@ -30,7 +30,7 @@
 		},
 		{
 			date: new Date(2024,3,12,20),
-			place: "Sous Reservation, Pont-Aven"
+			place: "Fête Privé, Pont-Aven"
 		},
 		{
 			date: new Date(2024,3,19,19),
@@ -42,8 +42,16 @@
 			
 		},
 		{
+			date: new Date(2024,5,21,18),
+			place: "CIORTF, Beg Meil"
+		},
+		{
 			date: new Date(2024,6,11,19),
 			place: "Salle des Fêtes, Lezardrieux"
+		},
+		{
+			date: new Date(2024,6,13,18),
+			place: "Les Jeunes Binettes, Trémargat"
 		}
 
 
