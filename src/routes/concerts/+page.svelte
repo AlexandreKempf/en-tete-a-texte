@@ -38,7 +38,7 @@
 		},
 		{
 			date: new Date(2024, 3, 20, 20, 0),
-			place: "Fête privé, Lézardrieux"
+			place: "Sur réservation, Lézardrieux"
 			
 		},
 		{
