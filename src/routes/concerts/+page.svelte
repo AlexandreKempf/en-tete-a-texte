@@ -52,7 +52,12 @@
 		{
 			date: new Date(2024,6,13,18),
 			place: "Les Jeunes Binettes, Trémargat"
+		},
+		{
+			date: new Date(2024,7,14,18),
+			place: "Jardin, Moelan-Sur-Mer"
 		}
+
 
 
 
