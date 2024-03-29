@@ -13,10 +13,10 @@
 	</div>
 	<ol class="lg:w-1/2 pl-10 lg:pl-0">
 		{#each concerts as concert}
-			{#if (concert.date - today) / (1000 * 60 * 60 * 24) > -7}
+			{#if (concert.date - today) / (1000 * 60 * 60 * 24) > -14}
 				<li class="relative pb-10">
 					<div class="flex items-start group">
-						{#if concert.date < today && (concert.date - today) / (1000 * 60 * 60 * 24) > -7}
+						{#if concert.date < today && (concert.date - today) / (1000 * 60 * 60 * 24) > -14}
 							<!-- Week before today -->
 							<span class="h-9 flex items-center">
 								<span
