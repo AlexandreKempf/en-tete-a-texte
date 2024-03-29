@@ -222,6 +222,11 @@
 			place: "Salle de L'Hermine, Plouha"
 		},
 		{
+			date: new Date(2024,4,22,19),
+			place: "Hangar sur réservation , Plouguiel"
+		},
+		
+		{
 			date: new Date(2024,5,21,18),
 			place: "CIORTF, Beg Meil"
 		},
