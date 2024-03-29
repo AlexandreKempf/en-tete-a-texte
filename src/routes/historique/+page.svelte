@@ -1,304 +1,36 @@
 <script>
 	import { pageTitle } from '../stores.js';
+	import { concerts, dateToString } from '../concerts.js';
 
 	$pageTitle = 'historique';
-	// date start at 0 for months
-	var concerts = [
-		
-		
-		
-		{	
-			date: new Date(2023, 1, 24, 20, 0),
-			place: "Café librairie la terrible, Camaret"
-		},
-		{
-			date: new Date(2023, 2, 1, 19, 30),
-			place: "Beaj Kafe, Brest"
-		},
-		{
-			date: new Date(2023, 2, 4, 19, 0),
-			place: "Instant T, Le Pouldu"
-		},
-		{
-			date: new Date(2023, 2, 17, 20, 0),
-			place: "Brasserie de L'imprimerie, Bannalec"
-		},
-		{
-			date: new Date(2023, 3, 8, 19, 30),
-			place: 'Chez Cousin, Nizon'
-		},
-		{
-			date: new Date(2023, 3, 28, 19, 30),
-			place: 'Annivercirque, Quimperlé'
-		},
-		{
-			date: new Date(2023, 4, 6, 19, 30),
-			place: 'Brizeux, Quimperlé'
-			
-		},
-		{
-			date: new Date(2023, 4, 12, 22, 0),
-			place: "Soirée à la grande salle Yhuel, Arzano"
-		},
-		{
-			date: new Date(2023, 4, 13, 19, 0),
-			place: 'Bugul Noz Festival, Arzano'
-		},
-		{
-			date: new Date(2023, 4, 14, 19, 0),
-			place: "Fête de la Tonte, Bannalec"
-		},
-		{
-		date: new Date(2023, 4, 26, 19, 0),
-			place: "La Cave, Moëlan Sur Mer"
-		},
-		{
-			date: new Date(2023, 4, 27, 19, 0),
-			place: "Castel Reuz, Bannalec"
-		},
-		{
-			date: new Date(2023, 4, 28, 19, 0),
-			place: "Festival Coeur de Conte, Plouray"
-		},
-		{
-			date: new Date(2023, 5, 3, 19, 0),
-			place: "La Chapelle, Locminé"
-		},
-		{
-			date: new Date(2023, 5, 17, 19, 0),
-			place: "Boeuf de L'Elle, Arzano"
-		},
-		{
-			date: new Date(2023, 5, 18, 19, 0),
-			place: "Portes ouvertes des Jardins de Kermerour, Bannalec"
-		},
-		{
-			date: new Date(2023, 5, 24, 19, 0),
-			place: "Fête de la musique, Riec Sur Bélon"
-		},
-		{
-			date: new Date(2023, 6, 4, 20, 0),
-			place: "CIORTF Beg Meil, Fouenant"
-		},
-		{
-			date: new Date(2023, 6, 8, 22, 30),
-			place: "Compagnie Kaboum, Lanvénégen"
-		},
-		{
-			date: new Date(2023, 6, 13, 19, 0),
-			place: "Kistin Café, Runan"
-		},
-		{
-			date: new Date(2023, 6, 15, 19, 0),
-			place: "L'Improbable Café, Plestin Les Grèves"
-		},
-		{
-			date: new Date(2023, 6, 21, 20, 0),
-			place: "Domaine de Beg Porz, Kerfany Les Pins"
-		},
-		{
-			date: new Date(2023, 6, 22, 19, 0),
-			place: "Ferme de Keranmevel, Saint Yvi"
-		},
-		{
-			date: new Date(2023, 6, 28, 18, 0),
-			place: "A l'abri de l'océan, Baye"
-		},	
-		{
-			date: new Date(2023, 7, 4, 20, 0),
-			place: "Domaine de Beg Porz, Kerfany Les Pins"
-		},
-		{
-			date: new Date(2023, 7, 6, 18, 0),
-			place: "Salle des Fête , Plouguiel"
-		},
-		{
-			date: new Date(2023, 7, 5, 18, 0),
-			place: "Fête Village, Kerbors"
-		},
-		{
-			date: new Date(2023, 7, 11, 19, 0),
-			place: "Le Bar Bichette, Trégunc"
-		},
-		{
-			date: new Date(2023, 7, 12, 19, 0),
-			place: "Le Melar Dit, Locmélar"
-		},
-		{
-			date: new Date(2023, 7, 19, 16, 0),
-			place: 'Nuit des love shacks, Nizon'
-		},
-		{
-			date: new Date(2023, 7, 20, 22, 30),
-			place: "Compagnie Kaboum, Lanvénégen"
-		},
-		{
-			date: new Date(2023, 7, 25, 20, 0),
-			place: "Domaine de Beg Porz, Kerfany Les Pins"
-		},
-		{
-			date: new Date(2023, 7, 26, 19, 0),
-			place: "Disjonct'Fest, Clohars Carnoet"
-		},
-		{
-			date: new Date(2023, 7, 25, 14, 0),
-			place: "Festival Voulez-Vous Vivre ?, Névez"
-		},
-		{
-			date: new Date(2023, 7, 27, 16, 0),
-			place: "Ferme au 10 vaches, Querrien"
-		},
-		{
-			date: new Date(2023, 7, 30, 19, 0),
-			place: "CIORTF, Beg Meil"
-		},
-		{
-			date: new Date(2023, 10, 11 , 20, 0),
-			place: "Le Ptit Bar Contrevent, Tréguidel"
-		},
-		{
-			date: new Date(2023, 11, 1 , 20, 0),
-			place: " La Guinguette de Croas An Ter , Clohars"
-		},
-
-		{
-			date: new Date(2024, 0, 14, 14, 0),
-			place: "L'annexe 23, Moëlan"
-			
-		},
-		{
-			date: new Date(2024, 0, 27, 21, 0),
-			place: "La maison, Lanvéoc"
-			
-		},
-		{
-			date: new Date(2024, 0, 28, 17, 0),
-			place: "Café de la gare, Landerneau"
-			
-		},
-		{
-			date: new Date(2024, 1, 14, 19, 0),
-			place: "le Gortozen, Landerneau"
-			
-		},
-		{
-			date: new Date(2024, 1, 17, 19, 0),
-			place: "Fête privé, Rennes"
-			
-		},
-		{
-			date: new Date(2024, 1, 18, 19, 0),
-			place: "Salle des Fêtes, Douarnenez"
-			
-		},
-		{
-			date: new Date(2024, 2, 14, 14, 0),
-			place: "Café Breton, Perros-Guirec"
-			
-		},
-		{
-			date: new Date(2024, 2, 15, 20, 0),
-			place: "Le Relais, Lanmodez"
-			
-		},
-		{
-			date: new Date(2024,3,5,18),
-			place: "Festival Chanson de Café, Pornic"
-		},
-		{
-			date: new Date(2024,3,6,18),
-			place: "Festival Chanson de Café, Pornic"
-		},
-		{
-			date: new Date(2024,3,7,15),
-			place: "Festival Chanson de Café, Pornic"
-		},
-		{
-			date: new Date(2024,3,12,20),
-			place: "Fête Privé, Pont-Aven"
-		},
-		{
-			date: new Date(2024,3,19,19),
-			place: "Salle de L'Hermine, Plouha"
-		},
-		{
-			date: new Date(2024,4,22,19),
-			place: "Hangar sur réservation , Plouguiel"
-		},
-		
-		{
-			date: new Date(2024,5,21,18),
-			place: "CIORTF, Beg Meil"
-		},
-		{
-			date: new Date(2024,6,11,19),
-			place: "Salle des Fêtes, Lezardrieux"
-		},
-		{
-			date: new Date(2024,6,13,18),
-			place: "Les Jeunes Binettes, Trémargat"
-		},
-		{
-			date: new Date(2024,7,14,18),
-			place: "Jardin, Moelan-Sur-Mer"
-		}
-
-
-
-
-	];
 
 	var today = new Date();
 
-	function dateToString(date) {
-		const month = {
-			0: 'Janv',
-			1: 'Févr',
-			2: 'Mars',
-			3: 'Avril',
-			4: 'Mai',
-			5: 'Juin',
-			6: 'Juil',
-			7: 'Août',
-			8: 'Sept',
-			9: 'Oct',
-			10: 'Nov',
-			11: 'Déc'
-		}[date.getMonth()];
-		return date.getDate().toString() + ' ' + month.toString();
-	}
+	const scrollToBottom = (node) => {
+		const scroll = () =>
+			node.scroll({
+				left: node.scrollWidth,
+				behavior: 'instant' // or 'smooth'
+			});
+		scroll();
 
-	function timeToString(date) {
-		const day = {
-			0: 'Dimanche',
-			1: 'Lundi',
-			2: 'Mardi',
-			3: 'Mercredi',
-			4: 'Jeudi',
-			5: 'Vendredi',
-			6: 'Samedi'
-		}[date.getDay()];
-
-		const hour = date.getHours();
-		const minutes =
-			date.getMinutes() < 10 ? '0' + date.getMinutes().toString() : date.getMinutes().toString();
-		return day.toString() + ' à ' + hour.toString() + ':' + minutes;
-	}
+		return { update: scroll };
+	};
 </script>
 
-<div class="flex flex-col-reverse lg:flex-row w-full pt-32">
-	<div class="lg:w-1/3 mx-10 lg:mx-auto pt-10 lg:pt-0">
-		<img class="object-cover w-full rounded-xl" src="historique.jpg" alt="" />
-	</div>
-	<ol class="lg:w-1/2 pl-10 lg:pl-0">
+<div
+	use:scrollToBottom={concerts}
+	class="flex flex-col-reverse lg:flex-row w-full pt-32 overflow-x-scroll"
+>
+	<ol class="lg:w-1/2 pl-10 lg:pl-0 flex">
 		{#each concerts as concert}
 			<li class="relative pb-10">
 				<div
-					class="-ml-px absolute mt-0.5 top-4 left-4 w-0.5 h-full bg-sky-600"
+					class="-ml-px absolute mt-0.5 top-4 left-4 w-full h-0.5 bg-blue-600"
 					aria-hidden="true"
 				/>
-				<div class="flex items-start group">
-					{#if concert.date < today}
+				{#if concert.date < today}
+					<div class="flex-col items-start group mx-3">
 						<span class="h-9 flex items-center">
 							<span
 								class="z-10 w-8 h-8 flex items-center justify-center bg-sky-600 rounded-full group-hover:bg-sky-600"
@@ -318,37 +50,23 @@
 								</svg>
 							</span>
 						</span>
-					{:else if (concert.date - today) / (1000 * 60 * 60 * 24) < 7}
-						<span class="h-9 flex items-center" aria-hidden="true">
-							<span
-								class="relative z-10 w-8 h-8 flex items-center justify-center bg-white border-2 border-sky-600 rounded-full"
-							>
-								<span class="h-2.5 w-2.5 bg-sky-600 rounded-full" />
-							</span>
-						</span>
-					{:else}
-						<span class="h-9 flex items-center" aria-hidden="true">
-							<span
-								class="relative z-10 w-8 h-8 flex items-center justify-center bg-white border-2 border-gray-300 rounded-full group-hover:border-gray-400"
-							>
-								<span class="h-2.5 w-2.5 bg-transparent rounded-full group-hover:bg-gray-300" />
-							</span>
-						</span>
-					{/if}
-					<div class="font-Inter relative flex top-1">
-						<div class="pl-2 text-xl w-36 flex-shrink-0 font-semibold tracking-wide uppercase">
-							{dateToString(concert.date)}
-						</div>
-						<div class="ml-4 min-w-0 flex flex-col">
-							<div class="text-sm font-semibold tracking-wide uppercase">
-								{concert.place}
+						<div class="font-Inter relative top-1">
+							<div class="text-xl w-36 flex-shrink-0 font-semibold tracking-wide uppercase">
+								{dateToString(concert.date)}
 							</div>
-							<div class="text-sm text-gray-500">
-								{timeToString(concert.date)}
+							<div
+								class="text-large -mt-1 mb-2 flex-shrink-0 font-semibold tracking-wide uppercase"
+							>
+								{concert.date.getFullYear().toString()}
+							</div>
+							<div class="min-w-0 flex flex-col">
+								<div class="text-sm tracking-wide">
+									{concert.place}
+								</div>
 							</div>
 						</div>
 					</div>
-				</div>
+				{/if}
 			</li>
 		{/each}
 	</ol>

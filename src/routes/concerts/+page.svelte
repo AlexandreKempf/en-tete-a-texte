@@ -1,108 +1,10 @@
 <script>
 	import { pageTitle } from '../stores.js';
+	import { concerts, dateToString, timeToString } from '../concerts.js';
 
 	$pageTitle = 'concerts';
-	// date start at 0 for months
-	var concerts = [
-		
-	
-		{
-			date: new Date(2024, 2, 14, 20, 30),
-			place: "Café Breton, Perros-Guirec"
-			
-		},
-		{
-			date: new Date(2024, 2, 15, 20, 0),
-			place: "Le Relais, Lanmodez"
-			
-		},
-		{
-			date: new Date(2024,3,5,18),
-			place: "Festival Chanson de Café, Pornic"
-		},
-		{
-			date: new Date(2024,3,6,18),
-			place: "Festival Chanson de Café, Pornic"
-		},
-		{
-			date: new Date(2024,3,7,15),
-			place: "Festival Chanson de Café, Pornic"
-		},
-		{
-			date: new Date(2024,3,12,20),
-			place: "Fête Privé, Pont-Aven"
-		},
-		{
-			date: new Date(2024,3,19,19),
-			place: "Salle de l'Hermine, Plouha"
-		},
-		{
-			date: new Date(2024, 3, 20, 20, 0),
-			place: "Sur réservation, Lézardrieux"
-			
-		},
-		{
-			date: new Date(2024,4,22,19),
-			place: "Hangar sur réservation, Plouguiel"
-		},
-		{
-			date: new Date(2024,5,21,18),
-			place: "CIORTF, Beg Meil"
-		},
-		{
-			date: new Date(2024,6,11,19),
-			place: "Salle des Fêtes, Lezardrieux"
-		},
-		{
-			date: new Date(2024,6,13,18),
-			place: "Les Jeunes Binettes, Trémargat"
-		},
-		{
-			date: new Date(2024,7,14,18),
-			place: "Jardin, Moelan-Sur-Mer"
-		}
-
-
-
-
-	];
 
 	var today = new Date();
-
-	function dateToString(date) {
-		const month = {
-			0: 'Janv',
-			1: 'Févr',
-			2: 'Mars',
-			3: 'Avril',
-			4: 'Mai',
-			5: 'Juin',
-			6: 'Juil',
-			7: 'Août',
-			8: 'Sept',
-			9: 'Oct',
-			10: 'Nov',
-			11: 'Déc'
-		}[date.getMonth()];
-		return date.getDate().toString() + ' ' + month.toString();
-	}
-
-	function timeToString(date) {
-		const day = {
-			0: 'Dimanche',
-			1: 'Lundi',
-			2: 'Mardi',
-			3: 'Mercredi',
-			4: 'Jeudi',
-			5: 'Vendredi',
-			6: 'Samedi'
-		}[date.getDay()];
-
-		const hour = date.getHours();
-		const minutes =
-			date.getMinutes() < 10 ? '0' + date.getMinutes().toString() : date.getMinutes().toString();
-		return day.toString() + ' à ' + hour.toString() + ':' + minutes;
-	}
 </script>
 
 <div class="flex flex-col-reverse lg:flex-row w-full pt-32">
@@ -111,64 +13,67 @@
 	</div>
 	<ol class="lg:w-1/2 pl-10 lg:pl-0">
 		{#each concerts as concert}
-			<li class="relative pb-10">
-				<div
-					class="-ml-px absolute mt-0.5 top-4 left-4 w-0.5 h-full bg-sky-600"
-					aria-hidden="true"
-				/>
-				<div class="flex items-start group">
-					{#if concert.date < today}
-						<span class="h-9 flex items-center">
-							<span
-								class="z-10 w-8 h-8 flex items-center justify-center bg-sky-600 rounded-full group-hover:bg-sky-600"
-							>
-								<svg
-									class="w-5 h-5 text-white"
-									xmlns="http://www.w3.org/2000/svg"
-									viewBox="0 0 20 20"
-									fill="currentColor"
-									aria-hidden="true"
+			{#if (concert.date - today) / (1000 * 60 * 60 * 24) > -7}
+				<li class="relative pb-10">
+					<div class="flex items-start group">
+						{#if concert.date < today && (concert.date - today) / (1000 * 60 * 60 * 24) > -7}
+							<!-- Week before today -->
+							<span class="h-9 flex items-center">
+								<span
+									class="z-10 w-8 h-8 flex items-center justify-center bg-sky-600 rounded-full group-hover:bg-sky-600"
 								>
-									<path
-										fill-rule="evenodd"
-										d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z"
-										clip-rule="evenodd"
-									/>
-								</svg>
+									<svg
+										class="w-5 h-5 text-white"
+										xmlns="http://www.w3.org/2000/svg"
+										viewBox="0 0 20 20"
+										fill="currentColor"
+										aria-hidden="true"
+									>
+										<path
+											fill-rule="evenodd"
+											d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z"
+											clip-rule="evenodd"
+										/>
+									</svg>
+								</span>
 							</span>
-						</span>
-					{:else if (concert.date - today) / (1000 * 60 * 60 * 24) < 7}
-						<span class="h-9 flex items-center" aria-hidden="true">
-							<span
-								class="relative z-10 w-8 h-8 flex items-center justify-center bg-white border-2 border-sky-600 rounded-full"
-							>
-								<span class="h-2.5 w-2.5 bg-sky-600 rounded-full" />
+						{:else if concert.date >= today && (concert.date - today) / (1000 * 60 * 60 * 24) < 7}
+							<span class="h-9 flex items-center" aria-hidden="true">
+								<span
+									class="relative z-10 w-8 h-8 flex items-center justify-center bg-white border-2 border-sky-600 rounded-full"
+								>
+									<span class="h-2.5 w-2.5 bg-sky-600 rounded-full" />
+								</span>
 							</span>
-						</span>
-					{:else}
-						<span class="h-9 flex items-center" aria-hidden="true">
-							<span
-								class="relative z-10 w-8 h-8 flex items-center justify-center bg-white border-2 border-gray-300 rounded-full group-hover:border-gray-400"
-							>
-								<span class="h-2.5 w-2.5 bg-transparent rounded-full group-hover:bg-gray-300" />
+						{:else if concert.date > today}
+							<span class="h-9 flex items-center" aria-hidden="true">
+								<span
+									class="relative z-10 w-8 h-8 flex items-center justify-center bg-white border-2 border-gray-300 rounded-full group-hover:border-gray-400"
+								>
+									<span class="h-2.5 w-2.5 bg-transparent rounded-full group-hover:bg-gray-300" />
+								</span>
 							</span>
-						</span>
-					{/if}
-					<div class="font-Inter relative flex top-1">
-						<div class="pl-2 text-xl w-36 flex-shrink-0 font-semibold tracking-wide uppercase">
-							{dateToString(concert.date)}
-						</div>
-						<div class="ml-4 min-w-0 flex flex-col">
-							<div class="text-sm font-semibold tracking-wide uppercase">
-								{concert.place}
+						{/if}
+						<div
+							class="-ml-px absolute mt-0.5 top-4 left-4 w-0.5 h-full bg-sky-600"
+							aria-hidden="true"
+						/>
+						<div class="font-Inter relative flex top-1">
+							<div class="pl-2 text-xl w-36 flex-shrink-0 font-semibold tracking-wide uppercase">
+								{dateToString(concert.date)}
 							</div>
-							<div class="text-sm text-gray-500">
-								{timeToString(concert.date)}
+							<div class="ml-4 min-w-0 flex flex-col">
+								<div class="text-sm font-semibold tracking-wide uppercase">
+									{concert.place}
+								</div>
+								<div class="text-sm text-gray-500">
+									{timeToString(concert.date)}
+								</div>
 							</div>
 						</div>
 					</div>
-				</div>
-			</li>
+				</li>
+			{/if}
 		{/each}
 	</ol>
 </div>
