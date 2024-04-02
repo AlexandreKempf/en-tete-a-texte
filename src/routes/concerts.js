@@ -206,6 +206,10 @@ export const concerts = [
         place: "Salle de L'Hermine, Plouha"
     },
     {
+        date: new Date(2024, 3, 20, 19),
+        place: 'Sur réservation, Lézardrieux'
+    },
+    {
         date: new Date(2024, 4, 21, 19),
         place: 'Ferme de Boiseon , Penvénan'
     },
