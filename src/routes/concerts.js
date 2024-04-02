@@ -210,6 +210,10 @@ export const concerts = [
         place: 'Hangar sur réservation , Plouguiel'
     },
     {
+        date: new Date(2024, 5, 13, 21),
+        place: 'Domaine de Beg Porz, Moelan-Sur-Mer'
+    },
+    {
         date: new Date(2024, 5, 21, 18),
         place: 'CIORTF, Beg Meil'
     },
@@ -220,6 +224,10 @@ export const concerts = [
     {
         date: new Date(2024, 6, 13, 18),
         place: 'Les Jeunes Binettes, Trémargat'
+    },
+    {
+        date: new Date(2024, 6, 17, 21),
+        place: 'Domaine de Beg Porz, Moelan-Sur-Mer'
     },
     {
         date: new Date(2024, 7, 14, 18),
