@@ -240,6 +240,10 @@ export const concerts = [
     {
         date: new Date(2024, 7, 14, 18),
         place: 'Jardin, Moelan-Sur-Mer'
+    },
+    {
+        date: new Date(2024, 8, 20, 21, 0),
+        place: 'La maison, Lanvéoc'
     }
 ].sort((concertA, concertB) => concertA.date - concertB.date);
 
