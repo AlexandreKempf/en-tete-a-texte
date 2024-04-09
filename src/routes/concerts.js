@@ -242,9 +242,16 @@ export const concerts = [
         place: 'Jardin, Moelan-Sur-Mer'
     },
     {
+        date: new Date(2024, 8, 8, 11, 0),
+        place: 'Tomahawk Festival Médiathèque, Querrien'
+    },
+    {
         date: new Date(2024, 8, 20, 21, 0),
         place: 'La maison, Lanvéoc'
-    }
+    },
+   
+
+     
 ].sort((concertA, concertB) => concertA.date - concertB.date);
 
 
