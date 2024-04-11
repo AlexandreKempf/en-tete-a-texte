@@ -218,6 +218,10 @@ export const concerts = [
         place: 'Hangar sur réservation , Plouguiel'
     },
     {
+        date: new Date(2024, 5, 1, 21),
+        place: 'Cabaret Kerhorre, Le Relecq-Kerhuon'
+    },
+    {
         date: new Date(2024, 5, 13, 21),
         place: 'Domaine de Beg Porz, Moelan-Sur-Mer'
     },
