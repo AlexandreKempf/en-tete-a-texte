@@ -206,10 +206,6 @@ export const concerts = [
         place: "Salle de L'Hermine, Plouha"
     },
     {
-        date: new Date(2024, 3, 20, 19),
-        place: 'Sur réservation, Lézardrieux'
-    },
-    {
         date: new Date(2024, 4, 21, 19),
         place: 'Ferme de Boiseon , Penvénan'
     },
@@ -230,6 +226,10 @@ export const concerts = [
         place: 'CIORTF, Beg Meil'
     },
     {
+        date: new Date(2024, 6, 6, 20),
+        place: 'Camping Sandaya Le Kérou, Clohars-Carnoët'
+    },
+    {
         date: new Date(2024, 6, 11, 19),
         place: 'Salle des Fêtes, Lezardrieux'
     },
@@ -240,6 +240,10 @@ export const concerts = [
     {
         date: new Date(2024, 6, 17, 21),
         place: 'Domaine de Beg Porz, Moelan-Sur-Mer'
+    },
+    {
+        date: new Date(2024, 7, 3, 20),
+        place: 'Camping Sandaya Le Kérou, Clohars-Carnoët'
     },
     {
         date: new Date(2024, 7, 14, 18),
