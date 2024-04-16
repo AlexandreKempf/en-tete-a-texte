@@ -206,6 +206,10 @@ export const concerts = [
         place: "Salle de L'Hermine, Plouha"
     },
     {
+        date: new Date(2024, 3, 23, 20),
+        place: "Au Bureau, Saint-Martin-des-Champs"
+    },
+    {
         date: new Date(2024, 4, 21, 19),
         place: 'Ferme de Boiseon , Penvénan'
     },
