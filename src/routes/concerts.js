@@ -207,7 +207,7 @@ export const concerts = [
     },
     {
         date: new Date(2024, 3, 26, 19),
-        place: "Salle, Arzano"
+        place: "L’ANCIEN CIAL, Arzano"
     },
     {
         date: new Date(2024, 4, 21, 19),
