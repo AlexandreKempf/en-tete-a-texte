@@ -210,6 +210,10 @@ export const concerts = [
         place: "L’ANCIEN CIAL, Arzano"
     },
     {
+        date: new Date(2024, 4, 17, 19),
+        place: 'Le petit marché , Névez'
+    },
+    {
         date: new Date(2024, 4, 21, 19),
         place: 'Ferme de Boiseon , Penvénan'
     },
