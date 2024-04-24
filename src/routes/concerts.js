@@ -266,7 +266,7 @@ export const concerts = [
         place: 'Tomahawk Festival Médiathèque, Querrien'
     },
     {
-        date: new Date(2024, 8, 19, 19, 0),
+        date: new Date(2024, 8, 19, 20, 0),
         place: 'Kafkerin, Brest'
     },
    
