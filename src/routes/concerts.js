@@ -258,9 +258,18 @@ export const concerts = [
         place: 'Jardin, Moelan-Sur-Mer'
     },
     {
+        date: new Date(2024, 7, 24, 18),
+        place: 'Festival Roz an Fest, Scaer'
+    },
+    {
         date: new Date(2024, 8, 8, 11, 0),
         place: 'Tomahawk Festival Médiathèque, Querrien'
     },
+    {
+        date: new Date(2024, 8, 19, 19, 0),
+        place: 'Kafkerin, Brest'
+    },
+   
     {
         date: new Date(2024, 8, 20, 21, 0),
         place: 'La maison, Lanvéoc'
