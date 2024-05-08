@@ -234,6 +234,10 @@ export const concerts = [
         place: 'CIORTF, Beg Meil'
     },
     {
+        date: new Date(2024, 5, 22, 18),
+        place: '55 Route de Lannugat, Douarnenez'
+    },
+    {
         date: new Date(2024, 6, 6, 20),
         place: 'Camping Sandaya Le Kérou, Clohars-Carnoët'
     },
