@@ -222,6 +222,10 @@ export const concerts = [
         place: 'Hangar sur réservation , Plouguiel'
     },
     {
+        date: new Date(2024, 4, 25, 19),
+        place: 'Le Bureau , Saint Martin des Champs'
+    },
+    {
         date: new Date(2024, 5, 1, 21),
         place: 'Cabaret Kerhorre, Le Relecq-Kerhuon'
     },
