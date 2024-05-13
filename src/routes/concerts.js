@@ -262,6 +262,10 @@ export const concerts = [
         place: 'Camping Sandaya Le Kérou, Clohars-Carnoët'
     },
     {
+        date: new Date(2024, 7, 9, 19),
+        place: 'Restaurant Ti-son, Camaret-sur-Mer'
+    },
+    {
         date: new Date(2024, 7, 14, 18),
         place: 'Jardin, Moelan-Sur-Mer'
     },
