@@ -258,6 +258,10 @@ export const concerts = [
         place: 'Domaine de Beg Porz, Moelan-Sur-Mer'
     },
     {
+        date: new Date(2024, 6, 21, 13),
+        place: 'Mabalulu, Locmaria'
+    },
+    {
         date: new Date(2024, 7, 3, 20),
         place: 'Camping Sandaya Le Kérou, Clohars-Carnoët'
     },
