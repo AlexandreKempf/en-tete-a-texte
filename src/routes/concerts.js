@@ -226,7 +226,7 @@ export const concerts = [
         place: 'Marché de Quenequen, Scrignac'
     },
     {
-        date: new Date(2024, 4, 25, 19),
+        date: new Date(2024, 4, 25, 20),
         place: 'Le Bureau , Saint Martin des Champs'
     },
     {
