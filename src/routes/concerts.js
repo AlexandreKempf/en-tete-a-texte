@@ -230,7 +230,7 @@ export const concerts = [
         place: 'Le Bureau , Saint Martin des Champs'
     },
     {
-        date: new Date(2024, 5, 1, 21),
+        date: new Date(2024, 5, 1, 20, 30),
         place: 'Cabaret Kerhorre, Le Relecq-Kerhuon'
     },
     {
