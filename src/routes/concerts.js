@@ -254,8 +254,16 @@ export const concerts = [
         place: 'Salle des Fêtes, Lezardrieux'
     },
     {
+        date: new Date(2024, 6, 12, 20),
+        place: ' La mi-temps bouille, Saint-Brieuc'
+    },
+    {
         date: new Date(2024, 6, 13, 18),
         place: 'Les Jeunes Binettes, Trémargat'
+    },
+    {
+        date: new Date(2024, 6, 31, 18),
+        place: 'Camping Côte des légendes, Brignaugan'
     },
     {
         date: new Date(2024, 6, 17, 21),
@@ -289,11 +297,15 @@ export const concerts = [
         date: new Date(2024, 8, 19, 20, 0),
         place: 'Kafkerin, Brest'
     },
-   
     {
         date: new Date(2024, 8, 20, 21, 0),
         place: 'La maison, Lanvéoc'
     },
+    {
+        date: new Date(2025, 3, 24, 20, 0),
+        place: 'Le Vauban, Brest'
+    },
+   
    
 
      
