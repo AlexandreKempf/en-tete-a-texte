@@ -13,7 +13,7 @@
 		</p>
 		<p class="mx-5 lg:mx-0 my-5 font-light text-xl">
 			Leur intention : faire passer des messages via le rire, la colère, la tristesse tout
-			en partageant le goût du texte au public. Pour eux, l'art est une approche sensible qui, en
+			en partageant le goût du texte avec le public. Pour eux, l'art est une approche sensible qui, en
 			faisant rêver, doit questionner, contester et idéalement fédérer. De fait, les grands concepts
 			tels l'amour, le temps, l'absurdité humaine sont des thématiques récurrentes au sein de leurs
 			compositions et de leurs influences (Brassens, Rostand, La Fontaine).

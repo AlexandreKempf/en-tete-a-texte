@@ -246,6 +246,10 @@ export const concerts = [
         place: '55 Route de Lannugat, Douarnenez'
     },
     {
+        date: new Date(2024, 6, 3, 18),
+        place: 'Ferme de Bara Leiz Kerdudal, Riec-Sur-Belon'
+    },
+    {
         date: new Date(2024, 6, 6, 20),
         place: 'Camping Sandaya Le Kérou, Clohars-Carnoët'
     },
