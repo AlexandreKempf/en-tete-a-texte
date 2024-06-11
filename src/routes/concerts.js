@@ -294,6 +294,11 @@ export const concerts = [
         place: 'Festival Roz an Fest, Scaer'
     },
     {
+        date: new Date(2024, 7, 28, 15),
+        place: 'Bar Bichette, Trégunc'
+    },
+    
+    {
         date: new Date(2024, 8, 8, 11, 0),
         place: 'Tomahawk Festival Médiathèque, Querrien'
     },
