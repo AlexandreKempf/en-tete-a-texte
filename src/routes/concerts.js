@@ -278,6 +278,14 @@ export const concerts = [
         place: 'Mabalulu, Locmaria'
     },
     {
+        date: new Date(2024, 6, 26, 19),
+        place: 'Le Petit Marché, Névez'
+    },
+    {
+        date: new Date(2024, 6, 28, 15),
+        place: 'Bar Bichette, Trégunc'
+    },
+    {
         date: new Date(2024, 7, 3, 20),
         place: 'Camping Sandaya Le Kérou, Clohars-Carnoët'
     },
@@ -290,13 +298,14 @@ export const concerts = [
         place: 'Jardin, Moelan-Sur-Mer'
     },
     {
+        date: new Date(2024, 6, 23, 19),
+        place: 'Le Petit Marché, Névez'
+    },
+    {
         date: new Date(2024, 7, 24, 18),
         place: 'Festival Roz an Fest, Scaer'
     },
-    {
-        date: new Date(2024, 7, 28, 15),
-        place: 'Bar Bichette, Trégunc'
-    },
+    
     
     {
         date: new Date(2024, 8, 8, 11, 0),
