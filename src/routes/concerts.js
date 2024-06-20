@@ -298,7 +298,7 @@ export const concerts = [
         place: 'Jardin, Moelan-Sur-Mer'
     },
     {
-        date: new Date(2024, 6, 23, 19),
+        date: new Date(2024, 7, 23, 19),
         place: 'Le Petit Marché, Névez'
     },
     {
