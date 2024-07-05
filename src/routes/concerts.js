@@ -255,7 +255,7 @@ export const concerts = [
     },
     {
         date: new Date(2024, 6, 11, 19),
-        place: 'Les jeudis de Kermouster, Lezardrieux'
+        place: 'La Cambuse De Kermouster, Lezardrieux'
     },
     {
         date: new Date(2024, 6, 12, 20),
