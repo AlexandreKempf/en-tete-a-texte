@@ -258,7 +258,7 @@ export const concerts = [
         place: 'La Cambuse De Kermouster, Lezardrieux'
     },
     {
-        date: new Date(2024, 6, 13, 18),
+        date: new Date(2024, 6, 13, 16),
         place: 'Les Jeunes Binettes, Trémargat'
     },
     {
