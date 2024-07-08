@@ -258,12 +258,12 @@ export const concerts = [
         place: 'La Cambuse De Kermouster, Lezardrieux'
     },
     {
-        date: new Date(2024, 6, 12, 20),
-        place: ' La mi-temps bouille, Saint-Brieuc'
-    },
-    {
         date: new Date(2024, 6, 13, 18),
         place: 'Les Jeunes Binettes, Trémargat'
+    },
+    {
+        date: new Date(2024, 6, 16, 20),
+        place: ' La mi-temps bouille, Saint-Brieuc'
     },
     {
         date: new Date(2024, 6, 31, 18),
