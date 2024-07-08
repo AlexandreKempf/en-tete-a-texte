@@ -262,7 +262,7 @@ export const concerts = [
         place: 'Les Jeunes Binettes, Trémargat'
     },
     {
-        date: new Date(2024, 6, 16, 20),
+        date: new Date(2024, 6, 12, 20),
         place: ' La mi-temps bouille, Saint-Brieuc'
     },
     {
