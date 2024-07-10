@@ -295,7 +295,7 @@ export const concerts = [
     },
     {
         date: new Date(2024, 7, 14, 18),
-        place: 'Jardin, Moelan-Sur-Mer'
+        place: 'Fest\'in d\'mouettes , Moelan-Sur-Mer'
     },
     {
         date: new Date(2024, 7, 23, 19),
@@ -304,6 +304,10 @@ export const concerts = [
     {
         date: new Date(2024, 7, 24, 18),
         place: 'Festival Roz an Fest, Scaer'
+    },
+    {
+        date: new Date(2024, 7, 31, 18),
+        place: 'Festirêve, Cloître-Saint-Thégonnec'
     },
     
     
