@@ -310,7 +310,7 @@ export const concerts = [
         place: 'Festirêve, Cloître-Saint-Thégonnec'
     },
     
-    
+
     {
         date: new Date(2024, 8, 8, 11, 0),
         place: 'Tomahawk Festival Médiathèque, Querrien'
