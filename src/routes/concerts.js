@@ -274,6 +274,10 @@ export const concerts = [
         place: 'Domaine de Beg Porz, Moelan-Sur-Mer'
     },
     {
+        date: new Date(2024, 6, 20, 19),
+        place: 'Godaille, Le Palais'
+    },
+    {
         date: new Date(2024, 6, 21, 13),
         place: 'Mabalulu, Locmaria'
     },
