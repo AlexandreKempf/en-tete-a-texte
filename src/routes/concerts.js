@@ -286,8 +286,8 @@ export const concerts = [
         place: 'Le Petit Marché, Névez'
     },
     {
-        date: new Date(2024, 6, 28, 15),
-        place: 'Bar Bichette, Trégunc'
+        date: new Date(2024, 6, 28, 13),
+        place: 'Yapuka, Trégunc'
     },
     {
         date: new Date(2024, 7, 3, 20),
