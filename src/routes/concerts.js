@@ -294,12 +294,20 @@ export const concerts = [
         place: 'Camping Sandaya Le Kérou, Clohars-Carnoët'
     },
     {
+        date: new Date(2024, 7, 8, 19),
+        place: 'Chez Tatabel, Plomodiern'
+    },
+    {
         date: new Date(2024, 7, 9, 19),
         place: 'Restaurant Ti-son, Camaret-sur-Mer'
     },
     {
         date: new Date(2024, 7, 14, 18),
         place: 'Fest\'in d\'mouettes , Moelan-Sur-Mer'
+    },
+    {
+        date: new Date(2024, 7, 21, 19),
+        place: 'Gîte de la Gare, Scrignac'
     },
     {
         date: new Date(2024, 7, 23, 19),
