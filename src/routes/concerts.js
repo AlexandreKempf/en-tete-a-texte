@@ -267,7 +267,7 @@ export const concerts = [
     },
     {
         date: new Date(2024, 6, 31, 18),
-        place: 'Camping Côte des légendes, Brignaugan'
+        place: 'Camping Côte des légendes, Brignogan'
     },
     {
         date: new Date(2024, 6, 17, 21),
