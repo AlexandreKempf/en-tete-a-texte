@@ -265,10 +265,7 @@ export const concerts = [
         date: new Date(2024, 6, 12, 20),
         place: ' La mi-temps bouille, Saint-Brieuc'
     },
-    {
-        date: new Date(2024, 6, 31, 18),
-        place: 'Camping Côte des légendes, Brignogan'
-    },
+   
     {
         date: new Date(2024, 6, 17, 21),
         place: 'Domaine de Beg Porz, Moelan-Sur-Mer'
@@ -288,6 +285,10 @@ export const concerts = [
     {
         date: new Date(2024, 6, 28, 13),
         place: 'Yapuka, Trégunc'
+    },
+    {
+        date: new Date(2024, 6, 31, 20),
+        place: 'Camping Côte des légendes, Brignogan'
     },
     {
         date: new Date(2024, 7, 3, 20),
