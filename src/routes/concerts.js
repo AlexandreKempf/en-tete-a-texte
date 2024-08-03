@@ -291,7 +291,7 @@ export const concerts = [
         place: 'Camping Côte des légendes, Brignogan'
     },
     {
-        date: new Date(2024, 7, 3, 20),
+        date: new Date(2024, 7, 3, 19),
         place: 'Camping Sandaya Le Kérou, Clohars-Carnoët'
     },
     {
