@@ -290,10 +290,10 @@ export const concerts = [
         date: new Date(2024, 6, 31, 20),
         place: 'Camping Côte des légendes, Brignogan'
     },
-    {
-        date: new Date(2024, 7, 3, 19),
-        place: 'Camping Sandaya Le Kérou, Clohars-Carnoët'
-    },
+        {
+            date: new Date(2024, 7, 3, 19),
+            place: 'Camping Sandaya Le Kérou, Clohars-Carnoët'
+        },
     {
         date: new Date(2024, 7, 8, 19),
         place: 'Chez Tatabel, Plomodiern'
@@ -305,6 +305,10 @@ export const concerts = [
     {
         date: new Date(2024, 7, 14, 18),
         place: 'Fest\'in d\'mouettes , Moelan-Sur-Mer'
+    },
+    {
+        date: new Date(2024, 7, 17, 19),
+        place: 'Camping Sandaya Le Kérou, Clohars-Carnoët'
     },
     {
         date: new Date(2024, 7, 21, 19),
@@ -321,6 +325,10 @@ export const concerts = [
     {
         date: new Date(2024, 7, 31, 18),
         place: 'Festirêve, Cloître-Saint-Thégonnec'
+    },
+    {
+        date: new Date(2024, 8, 7, 19),
+        place: 'Camping Sandaya Le Kérou, Clohars-Carnoët'
     },
     {
         date: new Date(2024, 8, 8, 11, 0),
