@@ -306,6 +306,11 @@ export const concerts = [
         date: new Date(2024, 7, 14, 19),
         place: 'Fest\'in d\'mouettes , Moelan-Sur-Mer'
     },
+
+    {
+        date: new Date(2024, 7, 16, 19),
+        place: 'Guinguette Cap’Taine mousse, Locunolé'
+    },
     {
         date: new Date(2024, 7, 17, 19),
         place: 'Camping Sandaya Le Kérou, Clohars-Carnoët'
