@@ -303,7 +303,7 @@ export const concerts = [
         place: 'Restaurant Ti-son, Camaret-sur-Mer'
     },
     {
-        date: new Date(2024, 7, 14, 18),
+        date: new Date(2024, 7, 14, 19),
         place: 'Fest\'in d\'mouettes , Moelan-Sur-Mer'
     },
     {
