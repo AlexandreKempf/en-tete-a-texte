@@ -308,7 +308,7 @@ export const concerts = [
     },
 
     {
-        date: new Date(2024, 7, 16, 19),
+        date: new Date(2024, 7, 18, 18, 30),
         place: 'Guinguette Cap’Taine mousse, Locunolé'
     },
     {
