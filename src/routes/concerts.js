@@ -324,7 +324,7 @@ export const concerts = [
         place: 'Le Petit Marché, Névez'
     },
     {
-        date: new Date(2024, 7, 24, 18),
+        date: new Date(2024, 7, 24, 17,30),
         place: 'Festival Roz an Fest, Scaer'
     },
     {
