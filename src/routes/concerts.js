@@ -345,7 +345,7 @@ export const concerts = [
     },
     {
         date: new Date(2024, 8, 17, 19, 0),
-        place: 'Talvera, Saint-Clet'
+        place: 'La Talvera, Saint-Clet'
     },
     {
         date: new Date(2024, 8, 11, 18),
