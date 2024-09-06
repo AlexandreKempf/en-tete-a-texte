@@ -341,7 +341,7 @@ export const concerts = [
     },
     {
         date: new Date(2024, 8, 14, 19, 0),
-        place: 'Chez L\'habitant, Saint-Brieuc'
+        place: 'Concert à domicile, Saint-Brieuc'
     },
     {
         date: new Date(2024, 8, 17, 19, 0),
