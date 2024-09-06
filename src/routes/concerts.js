@@ -340,6 +340,14 @@ export const concerts = [
         place: 'Tomahawk Festival Médiathèque, Querrien'
     },
     {
+        date: new Date(2024, 8, 14, 19, 0),
+        place: 'Chez L\'habitant, Saint-Brieuc'
+    },
+    {
+        date: new Date(2024, 8, 17, 19, 0),
+        place: 'Talvera, Saint-Clet'
+    },
+    {
         date: new Date(2024, 8, 11, 18),
         place: 'CIORTF, Beg Meil'
     },
