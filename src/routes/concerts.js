@@ -352,7 +352,7 @@ export const concerts = [
         place: 'CIORTF, Beg Meil'
     },
     {
-        date: new Date(2024, 8, 13, 19, 0),
+        date: new Date(2024, 8, 13, 21, 0),
         place: 'L\'Aparthé  Ploubezre'
     },
     {
