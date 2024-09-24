@@ -365,7 +365,7 @@ export const concerts = [
     },
     {
         date: new Date(2024, 8, 27, 17, 0),
-        place: 'Marché, Collorec'
+        place: 'Marché Des Marguerites, Collorec'
     },
 
     {
