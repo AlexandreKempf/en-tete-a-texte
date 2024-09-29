@@ -364,15 +364,6 @@ export const concerts = [
         place: 'La maison, Lanvéoc'
     },
     {
-        date: new Date(2024, 8, 27, 17, 0),
-        place: 'Marché Des Marguerites, Collorec'
-    },
-
-    {
-        date: new Date(2024, 8, 28, 19, 0),
-        place: 'Concert à domicile, Bannalec'
-    },
-    {
         date: new Date(2024, 9, 23, 19, 0),
         place: 'Enfricheuse, Commana'
     },
