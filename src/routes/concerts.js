@@ -374,7 +374,7 @@ export const concerts = [
     },
     {
         date: new Date(2024, 9, 23, 19, 0),
-        place: 'l\'enfricheuse, Commana'
+        place: 'Enfricheuse, Commana'
     },
     {
         date: new Date(2025, 3, 24, 20, 0),
