@@ -290,10 +290,10 @@ export const concerts = [
         date: new Date(2024, 6, 31, 20),
         place: 'Camping Côte des légendes, Brignogan'
     },
-        {
+    {
             date: new Date(2024, 7, 3, 19),
             place: 'Camping Sandaya Le Kérou, Clohars-Carnoët'
-        },
+    },
     {
         date: new Date(2024, 7, 8, 19),
         place: 'Chez Tatabel, Plomodiern'
@@ -306,7 +306,6 @@ export const concerts = [
         date: new Date(2024, 7, 14, 19),
         place: 'Fest\'in d\'mouettes , Moelan-Sur-Mer'
     },
-
     {
         date: new Date(2024, 7, 18, 18, 30),
         place: 'Guinguette Cap’Taine mousse, Locunolé'
@@ -370,7 +369,7 @@ export const concerts = [
     {
         date: new Date(2025, 3, 24, 20, 0),
         place: 'Le Vauban, Brest'
-    },
+    }
    
    
 
