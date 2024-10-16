@@ -365,7 +365,7 @@ export const concerts = [
     {
         date: new Date(2024, 8, 28, 19, 0),
         place: 'Concert à domicile, Bannalec'
-    },
+    },  
     {
         date: new Date(2024, 9, 23, 18, 0),
         place: 'L\'Enfr icheuse, Commana'
