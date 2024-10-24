@@ -371,6 +371,10 @@ export const concerts = [
         place: 'L\'Enfricheuse, Commana'
     },
     {
+        date: new Date(2024, 10, 8, 20, 0),
+        place: 'Salle des Fêtes, Pontrieux'
+    },
+    {
         date: new Date(2025, 3, 24, 20, 0),
         place: 'Le Vauban, Brest'
     }
