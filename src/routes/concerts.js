@@ -377,7 +377,17 @@ export const concerts = [
     {
         date: new Date(2025, 3, 24, 20, 0),
         place: 'Le Vauban, Brest'
-    }
+    },
+    {
+        date: new Date(2025, 6, 11, 20, 0),
+        place: 'Kreisker, Saint Quai Portrieux'
+    },
+    {
+        date: new Date(2025, 7, 22, 20, 0),
+        place: 'Kreisker, Saint Quai Portrieux'
+    },
+
+     
    
    
 
