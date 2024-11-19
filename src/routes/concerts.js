@@ -375,6 +375,12 @@ export const concerts = [
         place: 'Salle des Fêtes, Pontrieux'
     },
     {
+        date: new Date(2024, 30, 8, 20, 0),
+        place: 'Marché, Lorient'
+    },
+    
+    
+    {
         date: new Date(2025, 3, 24, 20, 0),
         place: 'Le Vauban, Brest'
     },
@@ -386,6 +392,7 @@ export const concerts = [
         date: new Date(2025, 7, 22, 20, 0),
         place: 'Kreisker, Saint Quai Portrieux'
     },
+
 
      
    
