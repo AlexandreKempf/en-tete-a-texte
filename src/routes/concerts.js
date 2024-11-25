@@ -375,7 +375,7 @@ export const concerts = [
         place: 'Salle des Fêtes, Pontrieux'
     },
     {
-        date: new Date(2024, 11,30, 10, 0),
+        date: new Date(2024, 10,30, 10, 0),
         place: 'Marché Green Friday, Lorient'
     },
     
