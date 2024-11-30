@@ -378,7 +378,10 @@ export const concerts = [
         date: new Date(2024, 10,30, 10, 0),
         place: 'Marché Green Friday, Lorient'
     },
-    
+    {
+        date: new Date(2024, 11, 5, 20, 30),
+        place: 'La Glycine, Guingamp'
+    },
     
     {
         date: new Date(2025, 3, 24, 20, 0),
