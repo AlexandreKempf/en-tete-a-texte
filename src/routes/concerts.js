@@ -382,7 +382,13 @@ export const concerts = [
         date: new Date(2024, 11, 5, 20, 30),
         place: 'La Glycine, Guingamp'
     },
-    
+    {
+        date: new Date(2025, 0, 24 , 20, 0),
+        place: 'Nuit de la lecture Médiathèque, Riec'
+    },
+
+
+
     {
         date: new Date(2025, 3, 24, 20, 0),
         place: 'Le Vauban, Brest'
