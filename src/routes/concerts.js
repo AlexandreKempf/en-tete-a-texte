@@ -387,7 +387,10 @@ export const concerts = [
         place: 'Nuit de la lecture Médiathèque, Riec'
     },
 
-
+    {
+        date: new Date(2025, 2, 14, 19, 0),
+        place: 'Maison Saget, Auray'
+    },
 
     {
         date: new Date(2025, 3, 24, 20, 0),
