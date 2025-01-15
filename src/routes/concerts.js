@@ -397,8 +397,17 @@ export const concerts = [
         place: 'Le Vauban, Brest'
     },
     {
+        date: new Date(2025, 6, 5, 10, 0),
+        place: 'Les Musicales, Névez'
+    },
+
+    {
         date: new Date(2025, 6, 11, 20, 0),
         place: 'Kreisker, Saint Quai Portrieux'
+    },
+    {
+        date: new Date(2025, 7, 2, 10, 0),
+        place: 'Les Musicales, Névez'
     },
     {
         date: new Date(2025, 7, 22, 20, 0),
