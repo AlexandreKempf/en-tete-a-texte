@@ -391,10 +391,13 @@ export const concerts = [
         date: new Date(2025, 2, 14, 19, 0),
         place: 'Maison Saget, Auray'
     },
-
     {
         date: new Date(2025, 3, 24, 20, 0),
         place: 'Le Vauban, Brest'
+    },
+    {
+        date: new Date(2025, 5, 28, 16, 30),
+        place: 'Place du Martray où Cantine, Pontivy'
     },
     {
         date: new Date(2025, 6, 5, 10, 0),
