@@ -413,6 +413,10 @@ export const concerts = [
         place: 'Les Musicales, Névez'
     },
     {
+        date: new Date(2025, 7, 20, 19),
+        place: 'Gîte de la Gare, Scrignac'
+    },
+    {
         date: new Date(2025, 7, 22, 20, 0),
         place: 'Kreisker, Saint Quai Portrieux'
     },
