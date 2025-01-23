@@ -403,7 +403,10 @@ export const concerts = [
         date: new Date(2025, 6, 5, 10, 0),
         place: 'Les Musicales, Névez'
     },
-
+    {
+        date: new Date(2025, 6, 10, 19),
+        place: 'La Cambuse De Kermouster, Lezardrieux'
+    },
     {
         date: new Date(2025, 6, 11, 20, 0),
         place: 'Kreisker, Saint Quai Portrieux'
