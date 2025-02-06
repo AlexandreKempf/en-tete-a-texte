@@ -396,6 +396,10 @@ export const concerts = [
         place: 'Le Vauban, Brest'
     },
     {
+        date: new Date(2025, 5, 18, 19),
+        place: 'Club de Danse, Ellipse Moelan Sur Mer'
+    },
+    {
         date: new Date(2025, 5, 28, 16, 30),
         place: 'Place du Martray où Cantine, Pontivy'
     },
@@ -407,10 +411,7 @@ export const concerts = [
         date: new Date(2025, 6, 10, 19),
         place: 'La Cambuse De Kermouster, Lezardrieux'
     },
-    {
-        date: new Date(2025, 6, 18, 19),
-        place: 'Club de Danse Ellipse, Moelan Sur Mer'
-    },
+   
     {
         date: new Date(2025, 6, 11, 20, 0),
         place: 'Kreisker, Saint Quai Portrieux'
