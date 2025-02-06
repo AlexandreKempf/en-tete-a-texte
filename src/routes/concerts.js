@@ -408,6 +408,10 @@ export const concerts = [
         place: 'La Cambuse De Kermouster, Lezardrieux'
     },
     {
+        date: new Date(2025, 6, 18, 19),
+        place: 'Club de Danse Ellipse, Moelan Sur Mer'
+    },
+    {
         date: new Date(2025, 6, 11, 20, 0),
         place: 'Kreisker, Saint Quai Portrieux'
     },
