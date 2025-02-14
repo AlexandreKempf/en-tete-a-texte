@@ -396,6 +396,10 @@ export const concerts = [
         place: 'Le Vauban, Brest'
     },
     {
+        date: new Date(2025, 3, 25, 19, 0),
+        place: 'Les Orties, Le Trehou'
+    },
+    {
         date: new Date(2025, 5, 18, 19),
         place: 'Club de Danse, Ellipse Moelan Sur Mer'
     },
