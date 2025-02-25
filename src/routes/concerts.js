@@ -412,6 +412,10 @@ export const concerts = [
         place: 'Les Musicales, Névez'
     },
     {
+        date: new Date(2025, 5, 31, 19, 0),
+        place: 'Camping Sandaya, Ploemeur'
+    },
+    {
         date: new Date(2025, 6, 10, 19),
         place: 'La Cambuse De Kermouster, Lezardrieux'
     },
@@ -420,9 +424,14 @@ export const concerts = [
         place: 'Kreisker, Saint Quai Portrieux'
     },
     {
-        date: new Date(2025, 7, 2, 10, 0),
-        place: 'Les Musicales, Névez'
+        date: new Date(2025, 6, 26, 18, 0),
+        place: 'Guingette Cap\'taine mousse, Locunolé'
     },
+    {
+        date: new Date(2025, 6, 29, 17, 0),
+        place: 'Ferme de Kerlou, Saint Ivy'
+    },
+ 
     {
         date: new Date(2025, 7, 20, 19),
         place: 'Gîte de la Gare, Scrignac'
