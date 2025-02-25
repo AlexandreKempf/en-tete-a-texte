@@ -399,6 +399,10 @@ export const concerts = [
         place: 'Les Orties, Le Trehou'
     },
     {
+        date: new Date(2025, 4, 31, 19, 0),
+        place: 'Camping Sandaya, Ploemeur'
+    },
+    {
         date: new Date(2025, 5, 18, 19),
         place: 'Club de Danse, Ellipse Moelan Sur Mer'
     },
@@ -414,10 +418,7 @@ export const concerts = [
         date: new Date(2025, 5, 29, 17, 0),
         place: 'Ferme de Kerlou, Saint Ivy'
     },
-    {
-        date: new Date(2025, 5, 31, 19, 0),
-        place: 'Camping Sandaya, Ploemeur'
-    },
+    
     {
         date: new Date(2025, 6, 5, 10, 0),
         place: 'Les Musicales, Névez'
