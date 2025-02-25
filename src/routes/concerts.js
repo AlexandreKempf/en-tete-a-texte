@@ -404,17 +404,26 @@ export const concerts = [
         place: 'Club de Danse, Ellipse Moelan Sur Mer'
     },
     {
+        date: new Date(2025, 5, 26, 18, 0),
+        place: 'Guingette Cap\'taine mousse, Locunolé'
+    },
+    {
         date: new Date(2025, 5, 28, 16, 30),
         place: 'Place du Martray où Cantine, Pontivy'
     },
     {
-        date: new Date(2025, 6, 5, 10, 0),
-        place: 'Les Musicales, Névez'
+        date: new Date(2025, 5, 29, 17, 0),
+        place: 'Ferme de Kerlou, Saint Ivy'
     },
     {
         date: new Date(2025, 5, 31, 19, 0),
         place: 'Camping Sandaya, Ploemeur'
     },
+    {
+        date: new Date(2025, 6, 5, 10, 0),
+        place: 'Les Musicales, Névez'
+    },
+    
     {
         date: new Date(2025, 6, 10, 19),
         place: 'La Cambuse De Kermouster, Lezardrieux'
@@ -423,14 +432,7 @@ export const concerts = [
         date: new Date(2025, 6, 11, 20, 0),
         place: 'Kreisker, Saint Quai Portrieux'
     },
-    {
-        date: new Date(2025, 6, 26, 18, 0),
-        place: 'Guingette Cap\'taine mousse, Locunolé'
-    },
-    {
-        date: new Date(2025, 6, 29, 17, 0),
-        place: 'Ferme de Kerlou, Saint Ivy'
-    },
+   
  
     {
         date: new Date(2025, 7, 20, 19),
