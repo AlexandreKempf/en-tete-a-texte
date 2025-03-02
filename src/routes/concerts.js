@@ -419,10 +419,7 @@ export const concerts = [
         place: 'Ferme de Kerlou, Saint Ivy'
     },
     
-    {
-        date: new Date(2025, 6, 5, 10, 0),
-        place: 'Les Musicales, Névez'
-    },
+  
     
     {
         date: new Date(2025, 6, 10, 19),
@@ -432,7 +429,10 @@ export const concerts = [
         date: new Date(2025, 6, 11, 20, 0),
         place: 'Kreisker, Saint Quai Portrieux'
     },
-   
+    {
+        date: new Date(2025, 7, 2, 10, 0),
+        place: 'Les Musicales, Névez'
+    },
  
     {
         date: new Date(2025, 7, 20, 19),
