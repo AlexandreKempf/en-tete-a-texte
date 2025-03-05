@@ -391,6 +391,11 @@ export const concerts = [
         place: 'Maison Saget, Carnac'
     },
     {
+        date: new Date(2025, 2, 28, 20, 0),
+        place: 'Artsbourg, Ploemodiern'
+    },
+
+    {
         date: new Date(2025, 3, 24, 20, 0),
         place: 'Le Vauban, Brest'
     },
