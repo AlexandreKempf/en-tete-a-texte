@@ -412,6 +412,10 @@ export const concerts = [
         place: 'Club de Danse, Ellipse Moelan Sur Mer'
     },
     {
+        date: new Date(2025, 5, 18, 19),
+        place: 'Fête du Solstice à Baume Shanti, Ferme de Quimerc\'h Bannalec' 
+    },
+    {
         date: new Date(2025, 5, 26, 18, 0),
         place: 'Guingette Cap\'taine mousse, Locunolé'
     },
