@@ -455,6 +455,10 @@ export const concerts = [
         date: new Date(2025, 7, 22, 20, 0),
         place: 'Kreisker, Saint Quai Portrieux'
     },
+    {
+        date: new Date(2025, 8, 20, 18, 0),
+        place: 'Médiathèque, Rédéné'
+    },
 
 
      
