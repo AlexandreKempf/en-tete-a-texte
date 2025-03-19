@@ -408,7 +408,7 @@ export const concerts = [
         place: 'Camping Sandaya, Ploemeur'
     },
     {
-        date: new Date(2025, 5, 18, 19),
+        date: new Date(2025, 5, 14, 17),
         place: 'Médiathèque, Landerneau'
     },
     {
