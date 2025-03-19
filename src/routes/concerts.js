@@ -409,6 +409,10 @@ export const concerts = [
     },
     {
         date: new Date(2025, 5, 18, 19),
+        place: 'Médiathèque, Landerneau'
+    },
+    {
+        date: new Date(2025, 5, 18, 19),
         place: 'Club de Danse, Ellipse Moelan Sur Mer'
     },
     {
@@ -439,7 +443,7 @@ export const concerts = [
         place: 'Kreisker, Saint Quai Portrieux'
     },
     {
-        date: new Date(2025, 7, 2, 10, 0),
+        date: new Date(2025, 7, 16, 10, 0),
         place: 'Les Musicales, Névez'
     },
  
