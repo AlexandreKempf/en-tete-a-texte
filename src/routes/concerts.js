@@ -431,9 +431,6 @@ export const concerts = [
         date: new Date(2025, 5, 29, 17, 0),
         place: 'Ferme de Kerlou, Saint Ivy'
     },
-    
-  
-    
     {
         date: new Date(2025, 6, 10, 19),
         place: 'La Cambuse De Kermouster, Lezardrieux'
@@ -442,6 +439,16 @@ export const concerts = [
         date: new Date(2025, 6, 11, 20, 0),
         place: 'Kreisker, Saint Quai Portrieux'
     },
+    {
+        date: new Date(2025, 6, 15, 19, 0),
+        place: 'Mabalulu, Belle île en mer'
+    },
+
+    {
+        date: new Date(2025, 6, 7, 19, 0),
+        place: 'L\'aventure, Belle île en mer'
+    },
+
     {
         date: new Date(2025, 7, 16, 10, 0),
         place: 'Les Musicales, Névez'
