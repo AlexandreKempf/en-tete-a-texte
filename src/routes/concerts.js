@@ -404,6 +404,10 @@ export const concerts = [
         place: 'Les Orties, Le Trehou'
     },
     {
+        date: new Date(2025, 3, 11, 18, 30),
+        place: 'Fête de la Laine, Bannalec'
+    },
+    {
         date: new Date(2025, 4, 31, 19, 0),
         place: 'Camping Sandaya, Ploemeur'
     },
