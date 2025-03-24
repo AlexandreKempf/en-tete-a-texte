@@ -408,7 +408,7 @@ export const concerts = [
         place: 'Fête de la Laine, Bannalec'
     },
     {
-        date: new Date(2025, 5, 21, 21),
+        date: new Date(2025, 4, 21, 21),
         place: 'Domaine de Beg Porz, Moelan-Sur-Mer'
     },
     {
