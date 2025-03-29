@@ -416,6 +416,10 @@ export const concerts = [
         place: 'Camping Sandaya, Ploemeur'
     },
     {
+        date: new Date(2025, 5, 7, 19, 0),
+        place: 'La Cave Ar Morskoul, Moëlan Sur Mer'
+    },
+    {
         date: new Date(2025, 5, 14, 17),
         place: 'Médiathèque, Landerneau'
     },
