@@ -424,6 +424,10 @@ export const concerts = [
         place: 'Médiathèque, Landerneau'
     },
     {
+        date: new Date(2025, 5, 15, 19),
+        place: 'Awen Kafe, Landévennec'
+    },
+    {
         date: new Date(2025, 5, 18, 19),
         place: 'Club de Danse, Ellipse Moelan Sur Mer'
     },
