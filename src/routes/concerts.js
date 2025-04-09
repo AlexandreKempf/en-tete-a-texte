@@ -400,6 +400,19 @@ export const concerts = [
         place: 'Le Vauban, Brest'
     },
     {
+        date: new Date(2025, 3,19, 20, 0),
+        place: 'Castoullerie, Le Palais'
+    },
+    {
+        date: new Date(2025, 3, 20, 19, 0),
+        place: 'La Godaille, Le Palais'
+    },
+
+    {
+        date: new Date(2025, 3, 24, 20, 0),
+        place: 'Le Vauban, Brest'
+    },
+    {
         date: new Date(2025, 3, 25, 19, 0),
         place: 'Les Orties, Le Trehou'
     },
