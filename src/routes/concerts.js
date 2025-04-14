@@ -474,7 +474,7 @@ export const concerts = [
     },
 
     {
-        date: new Date(2025, 6, 17, 19, 0),
+        date: new Date(2025, 6, 18, 19, 0),
         place: 'L\'aventure, Belle île en mer'
     },
 
