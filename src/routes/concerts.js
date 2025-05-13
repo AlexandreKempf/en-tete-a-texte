@@ -461,9 +461,14 @@ export const concerts = [
         place: 'Ferme de Kerlou, Saint Ivy'
     },
 
+    
     {
-        date: new Date(2025, 7, 5, 19,30),
+        date: new Date(2025, 6, 5, 19,30),
         place: 'Tatabel, Plomodiern'
+    },
+    {
+        date: new Date(2025, 6, 9, 18,30),
+        place: 'Ty légume, Plouguiel'
     },
 
     {
