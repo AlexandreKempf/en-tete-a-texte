@@ -460,8 +460,6 @@ export const concerts = [
         date: new Date(2025, 5, 29, 17, 0),
         place: 'Ferme de Kerlou, Saint Ivy'
     },
-
-    
     {
         date: new Date(2025, 6, 5, 19,30),
         place: 'Tatabel, Plomodiern'
@@ -505,6 +503,10 @@ export const concerts = [
     {
         date: new Date(2025, 8, 3, 21),
         place: 'Domaine de Beg Porz, Moelan-Sur-Mer'
+    },
+    {
+        date: new Date(2025, 8, 7, 18),
+        place: 'La Loco, Quimperlé'
     },
     {
         date: new Date(2025, 8, 18, 21),
