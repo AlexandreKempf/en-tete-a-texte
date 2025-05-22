@@ -486,6 +486,10 @@ export const concerts = [
         date: new Date(2025, 6, 18, 19, 0),
         place: 'L\'aventure, Belle île en mer'
     },
+    {
+        date: new Date(2025, 6, 19, 19, 0),
+        place: 'La Godaille, Belle île en mer'
+    },
 
     {
         date: new Date(2025, 7, 16, 10, 0),
@@ -503,6 +507,10 @@ export const concerts = [
     {
         date: new Date(2025, 8, 3, 21),
         place: 'Domaine de Beg Porz, Moelan-Sur-Mer'
+    },
+     {
+        date: new Date(2025, 8, 6, 18),
+        place: 'Les Musicales, Névez'
     },
     {
         date: new Date(2025, 8, 7, 18),
