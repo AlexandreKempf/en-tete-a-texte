@@ -425,7 +425,7 @@ export const concerts = [
         place: 'Domaine de Beg Porz, Moelan-Sur-Mer'
     },
     {
-        date: new Date(2025, 4, 30, 19, 0),
+        date: new Date(2025, 4, 30, 20, 30),
         place: 'Camping Sandaya, Ploemeur'
     },
     {
@@ -457,7 +457,7 @@ export const concerts = [
         place: 'Place du Martray où Cantine, Pontivy'
     },
     {
-        date: new Date(2025, 5, 29, 17, 0),
+        date: new Date(2025, 5, 29, 16, 30),
         place: 'Ferme de Kerlou, Saint Ivy'
     },
     {
