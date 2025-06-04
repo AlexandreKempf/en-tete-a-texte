@@ -469,7 +469,7 @@ export const concerts = [
         place: 'Tatabel, Plomodiern'
     },
     {
-        date: new Date(2025, 6, 8, 20),
+        date: new Date(2025, 6, 8, 20,30),
         place: ' Camping Sandaya Port Manech, Névez'
     },
 
