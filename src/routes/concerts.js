@@ -250,7 +250,7 @@ export const concerts = [
         place: 'Ferme de Bara Leiz Kerdudal, Riec-Sur-Belon'
     },
     {
-        date: new Date(2024, 6, 6, 20),
+        date: new Date(2024, 6, 6, 20,30),
         place: 'Camping Sandaya Le Kérou, Clohars-Carnoët'
     },
     {
@@ -516,7 +516,7 @@ export const concerts = [
         place: 'Kreisker, Saint Quai Portrieux'
     },
     {
-        date: new Date(2025, 7, 27, 20),
+        date: new Date(2025, 7, 27, 20,30),
         place: ' Camping Sandaya Port Manech, Névez'
     },
     {
