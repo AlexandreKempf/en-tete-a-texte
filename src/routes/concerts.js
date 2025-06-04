@@ -468,8 +468,7 @@ export const concerts = [
         date: new Date(2025, 6, 5, 19,30),
         place: 'Tatabel, Plomodiern'
     },
-    
-       {
+    {
         date: new Date(2025, 6, 8, 20),
         place: ' Camping Sandaya Port Manech, Névez'
     },
@@ -500,14 +499,14 @@ export const concerts = [
         date: new Date(2025, 6, 19, 19, 0),
         place: 'La Godaille, Belle île en mer'
     },
-
-
-
+    {
+        date: new Date(2025, 4, 30, 20, 30),
+        place: 'Camping Sandaya, Ploemeur'
+    },
     {
         date: new Date(2025, 7, 16, 10, 0),
         place: 'Les Musicales, Névez'
     },
- 
     {
         date: new Date(2025, 7, 20, 19),
         place: 'Gîte de la Gare, Scrignac'
