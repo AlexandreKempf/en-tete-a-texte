@@ -468,6 +468,12 @@ export const concerts = [
         date: new Date(2025, 6, 5, 19,30),
         place: 'Tatabel, Plomodiern'
     },
+    
+       {
+        date: new Date(2025, 6, 8, 20),
+        place: ' Camping Sandaya Port Manech, Névez'
+    },
+
     {
         date: new Date(2025, 6, 9, 18,30),
         place: 'Ty légume, Plouguiel'
@@ -495,6 +501,8 @@ export const concerts = [
         place: 'La Godaille, Belle île en mer'
     },
 
+
+
     {
         date: new Date(2025, 7, 16, 10, 0),
         place: 'Les Musicales, Névez'
@@ -507,6 +515,10 @@ export const concerts = [
     {
         date: new Date(2025, 7, 22, 20, 0),
         place: 'Kreisker, Saint Quai Portrieux'
+    },
+    {
+        date: new Date(2025, 7, 27, 20),
+        place: ' Camping Sandaya Port Manech, Névez'
     },
     {
         date: new Date(2025, 8, 3, 21),
