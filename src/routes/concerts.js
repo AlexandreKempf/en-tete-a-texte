@@ -437,7 +437,7 @@ export const concerts = [
         place: 'Médiathèque, Landerneau'
     },
     {
-        date: new Date(2025, 5, 15, 19),
+        date: new Date(2025, 5, 15, 18),
         place: 'Awen Kafe, Landévennec'
     },
     {
