@@ -500,7 +500,7 @@ export const concerts = [
         place: 'La Godaille, Belle île en mer'
     },
     {
-        date: new Date(2025, 4, 30, 20, 30),
+        date: new Date(2025, 7, 12, 19, 30),
         place: 'Camping Sandaya, Ploemeur'
     },
     {
