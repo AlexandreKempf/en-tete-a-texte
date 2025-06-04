@@ -446,7 +446,7 @@ export const concerts = [
     },
      {
         date: new Date(2025, 5, 20, 19),
-        place: 'Fête de la musique à Boudiguen, Querrien'
+        place: 'Fête de la musique, Querrien'
     },
     {
         date: new Date(2025, 5, 22, 17),
