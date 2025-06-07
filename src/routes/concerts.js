@@ -464,6 +464,10 @@ export const concerts = [
         date: new Date(2025, 5, 29, 16, 30),
         place: 'Ferme de Kerlou, Saint Ivy'
     },
+     {
+        date: new Date(2025, 6, 4, 19),
+        place: 'Ty Lipous, Moustéru'
+    },
     {
         date: new Date(2025, 6, 5, 19,30),
         place: 'Tatabel, Plomodiern'
