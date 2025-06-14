@@ -504,8 +504,16 @@ export const concerts = [
         place: 'La Godaille, Belle île en mer'
     },
     {
+        date: new Date(2025, 6, 24, 19),
+        place: 'Le Petit Marché, Névez'
+    },
+    {
         date: new Date(2025, 7, 12, 19, 30),
         place: 'Camping Sandaya, Ploemeur'
+    },
+     {
+        date: new Date(2025, 7, 13, 19),
+        place: 'Le Petit Marché, Névez'
     },
     {
         date: new Date(2025, 7, 16, 10, 0),
