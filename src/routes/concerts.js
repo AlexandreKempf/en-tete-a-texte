@@ -445,11 +445,11 @@ export const concerts = [
         place: 'Club de Danse, Ellipse Moelan Sur Mer'
     },
      {
-        date: new Date(2025, 5, 20, 19),
+        date: new Date(2025, 5, 20, 20),
         place: 'Fête de la musique, Querrien'
     },
     {
-        date: new Date(2025, 5, 22, 17),
+        date: new Date(2025, 5, 22, 18,30),
         place: 'Fête du Solstice à Baume Shanti, Ferme de Quimerc\'h Bannalec' 
     },
     {
