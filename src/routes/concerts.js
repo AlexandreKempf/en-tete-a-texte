@@ -487,10 +487,6 @@ export const concerts = [
         place: 'La Cambuse De Kermouster, Lezardrieux'
     },
     {
-        date: new Date(2025, 6, 11, 20, 0),
-        place: 'Kreisker, Saint Quai Portrieux'
-    },
-    {
         date: new Date(2025, 6, 15, 19, 0),
         place: 'Mabalulu, Belle île en mer'
     },
@@ -522,10 +518,6 @@ export const concerts = [
     {
         date: new Date(2025, 7, 20, 19),
         place: 'Gîte de la Gare, Scrignac'
-    },
-    {
-        date: new Date(2025, 7, 22, 20, 0),
-        place: 'Kreisker, Saint Quai Portrieux'
     },
     {
         date: new Date(2025, 7, 27, 20,30),
