@@ -457,6 +457,10 @@ export const concerts = [
         place: 'Guingette Cap\'taine mousse, Locunolé'
     },
     {
+        date: new Date(2025, 5, 27, 19, 0),
+        place: 'CIORTF, Beg Meil'
+    },
+    {
         date: new Date(2025, 5, 28, 16, 30),
         place: 'Place du Martray où Cantine, Pontivy'
     },
@@ -503,6 +507,10 @@ export const concerts = [
         date: new Date(2025, 6, 24, 19),
         place: 'Le Petit Marché, Névez'
     },
+     {
+        date: new Date(2025, 6, 24, 19),
+        place: 'Café de la gare, La Forest-Landerneau'
+    },
     {
         date: new Date(2025, 7, 12, 19, 30),
         place: 'Camping Sandaya, Ploemeur'
@@ -518,6 +526,10 @@ export const concerts = [
     {
         date: new Date(2025, 7, 20, 19),
         place: 'Gîte de la Gare, Scrignac'
+    },
+    {
+        date: new Date(2025, 7, 23, 19),
+        place: 'Fête du village, Tréhou'
     },
     {
         date: new Date(2025, 7, 27, 20,30),
