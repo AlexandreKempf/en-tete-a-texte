@@ -517,6 +517,12 @@ export const concerts = [
         date: new Date(2025, 6, 27, 19),
         place: 'Café de la gare, La Forest-Landerneau'
     },
+
+    {
+        date: new Date(2023, 7, 5, 20, 0),
+        place: 'CIORTF Beg Meil, Fouenant'
+    },
+
     {
         date: new Date(2025, 7, 12, 19, 30),
         place: 'Camping Sandaya, Ploemeur'
