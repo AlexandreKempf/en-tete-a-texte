@@ -519,7 +519,7 @@ export const concerts = [
     },
 
     {
-        date: new Date(2023, 7, 5, 20, 0),
+        date: new Date(2025, 7, 7, 20, 0),
         place: 'CIORTF Beg Meil, Fouenant'
     },
 
@@ -567,7 +567,14 @@ export const concerts = [
         date: new Date(2025, 8, 20, 18, 0),
         place: 'Médiathèque, Rédéné'
     },
-
+    {
+        date: new Date(2025, 8, 28, 17, 0),
+        place: 'Chez Habitant, Plérin'
+    },
+    {
+        date: new Date(2026, 0, 23, 19, 0),
+        place: 'Médiathèque, Trémeven'
+    },
 
      
    
