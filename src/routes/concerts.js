@@ -482,7 +482,7 @@ export const concerts = [
     },
 
     {
-        date: new Date(2025, 6, 9, 18,30),
+        date: new Date(2025, 6, 9, 19,00),
         place: 'Ty légume, Plouguiel'
     },
 
