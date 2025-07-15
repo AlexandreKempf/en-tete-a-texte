@@ -491,7 +491,7 @@ export const concerts = [
         place: 'La Cambuse De Kermouster, Lezardrieux'
     },
     {
-        date: new Date(2025, 6, 15, 19, 0),
+        date: new Date(2025, 6, 15, 20, 0),
         place: 'Mabalulu, Belle île en mer'
     },
 
