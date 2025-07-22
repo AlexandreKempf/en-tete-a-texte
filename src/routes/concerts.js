@@ -508,7 +508,7 @@ export const concerts = [
         place: 'Le Petit Marché, Névez'
     },
     {
-        date: new Date(2025, 6, 25, 19),
+        date: new Date(2025, 6, 25, 20),
         place: 'Ty Pouce, Quimperlé'
     },
 
@@ -566,6 +566,10 @@ export const concerts = [
     {
         date: new Date(2025, 8, 20, 18, 0),
         place: 'Médiathèque, Rédéné'
+    },
+     {
+        date: new Date(2025, 8, 26, 19, 0),
+        place: 'L\'annexe, Guingamp'
     },
     {
         date: new Date(2025, 8, 28, 17, 0),
