@@ -514,7 +514,7 @@ export const concerts = [
 
 
      {
-        date: new Date(2025, 6, 27, 19),
+        date: new Date(2025, 6, 27, 18),
         place: 'Café de la gare, La Forest-Landerneau'
     },
 
