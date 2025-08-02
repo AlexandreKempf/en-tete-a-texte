@@ -532,6 +532,11 @@ export const concerts = [
         place: 'Le Petit Marché, Névez'
     },
     {
+        date: new Date(2025, 7, 14, 19,30),
+        place: 'Sous les Halles, Le Faouët'
+    },
+
+    {
         date: new Date(2025, 7, 16, 10, 0),
         place: 'Les Musicales, Névez'
     },
