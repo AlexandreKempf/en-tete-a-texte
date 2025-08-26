@@ -21,7 +21,7 @@
 	}
 </script>
 
-<title>En-Tête-a-Texte</title>
+<title>En Tête à Texte</title>
 <div class="absolute flex w-full" bind:clientWidth={screenSize}>
 	<div class="inline-flex w-1/2 flex-col">
 		{#if screenSize >= 1550}

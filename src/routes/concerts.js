@@ -557,7 +557,7 @@ export const concerts = [
         place: 'Domaine de Beg Porz, Moelan-Sur-Mer'
     },
      {
-        date: new Date(2025, 8, 6, 18),
+        date: new Date(2025, 8, 6, 10),
         place: 'Les Musicales, Névez'
     },
     {
