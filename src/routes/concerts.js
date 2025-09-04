@@ -582,7 +582,7 @@ export const concerts = [
     },
      {
         date: new Date(2025, 9, 12, 17, 30),
-        place: 'Roue Libre, Paris'
+        place: 'La Roue Libre, Paris'
     },
      {
         date: new Date(2025, 9, 13, 19, 0),
