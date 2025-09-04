@@ -581,6 +581,10 @@ export const concerts = [
         place: 'Chez Habitant, Plérin'
     },
      {
+        date: new Date(2025, 9, 12, 17, 30),
+        place: 'Roue Libre, Paris'
+    },
+     {
         date: new Date(2025, 9, 13, 19, 0),
         place: 'Café de la danse, Paris'
     },
