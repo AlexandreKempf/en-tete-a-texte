@@ -592,6 +592,48 @@ export const concerts = [
         date: new Date(2026, 0, 23, 19, 0),
         place: 'Médiathèque, Trémeven'
     },
+     {
+        date: new Date(2026, 4, 1, 19, 0),
+        place: 'Bateau, Concarneau'
+    },
+    {
+        date: new Date(2026, 4, 8, 20, 30),
+        place: 'Fest Bar, Saint Connec'
+    },
+    {
+        date: new Date(2026, 5, 21, 15, 0),
+        place: 'Moulin Blanc, Mellac'
+    },
+        {
+        date: new Date(2026, 6, 8, 20, 0),
+        place: 'Camping Sandaya, Névez'
+    },
+     {
+        date: new Date(2026, 6, 9, 20, 0),
+        place: 'Tremplin Festival Jean Ferrat, Antraigues-sur-Volane'
+    },
+      {
+        date: new Date(2026, 7, 13, 19, 30),
+        place: 'Camping du Loup Blanc, Plouhinec'
+    },
+    {
+        date: new Date(2026, 7, 23, 19, 0),
+        place: 'Artsbourg, Ploemodiern'
+    },
+    {
+        date: new Date(2026, 7, 20, 18, 30),
+        place: 'Parc Questel, Melgven'
+    },
+    {
+        date: new Date(2026, 7, 26, 20, 0),
+        place: 'Camping Sandaya, Névez'
+    },
+
+    {
+        date: new Date(2026, 8, 4, 19, 0),
+        place: 'Artsbourg, Ploemodiern'
+    },
+    
 
      
    
