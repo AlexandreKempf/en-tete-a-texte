@@ -602,6 +602,10 @@ export const concerts = [
     },
     {
         date: new Date(2026, 5, 21, 15, 0),
+        place: 'Bal Danse, Moelan Sur mer'
+    },
+    {
+        date: new Date(2026, 5, 21, 15, 0),
         place: 'Moulin Blanc, Mellac'
     },
         {
