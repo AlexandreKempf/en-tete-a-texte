@@ -601,7 +601,7 @@ export const concerts = [
         place: 'Fest Bar, Saint Connec'
     },
     {
-        date: new Date(2026, 5, 21, 15, 0),
+        date: new Date(2026, 5, 17, 15, 0),
         place: 'Bal Danse, Moelan Sur mer'
     },
     {
