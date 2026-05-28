@@ -616,6 +616,10 @@ export const concerts = [
         date: new Date(2026, 6, 9, 20, 0),
         place: 'Tremplin Festival Jean Ferrat, Antraigues-sur-Volane'
     },
+     {
+        date: new Date(2026, 6, 24, 20, 0),
+        place: 'Graines de Rencontres, Les Vans'
+    },
       {
         date: new Date(2026, 7, 13, 19, 30),
         place: 'Camping du Loup Blanc, Plouhinec'
