@@ -601,7 +601,7 @@ export const concerts = [
         place: 'Fest Bar, Saint Connec'
     },
     {
-        date: new Date(2026, 5, 17, 15, 0),
+        date: new Date(2026, 5, 17, 20, 0),
         place: 'Bal Danse, Moelan Sur mer'
     },
     {
@@ -615,6 +615,10 @@ export const concerts = [
      {
         date: new Date(2026, 6, 9, 20, 0),
         place: 'Tremplin Festival Jean Ferrat, Antraigues-sur-Volane'
+    },
+    {
+        date: new Date(2026, 6, 9, 24, 0),
+        place: 'Graines de Rencontres, Les Vans'
     },
      {
         date: new Date(2026, 6, 24, 20, 0),
@@ -641,6 +645,11 @@ export const concerts = [
         date: new Date(2026, 8, 4, 19, 0),
         place: 'Artsbourg, Ploemodiern'
     },
+    {
+        date: new Date(2026, 8, 4, 19, 0),
+        place: 'Concert à Domicile, La forest landerneau'
+    },
+    
     
 
      
