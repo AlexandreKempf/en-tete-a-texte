@@ -617,8 +617,8 @@ export const concerts = [
         place: 'Tremplin Festival Jean Ferrat, Antraigues-sur-Volane'
     },
     {
-        date: new Date(2026, 6, 9, 24, 0),
-        place: 'Graines de Rencontres, Les Vans'
+        date: new Date(2026, 6, 9, 19, 0),
+        place: ', '
     },
      {
         date: new Date(2026, 6, 24, 20, 0),
@@ -646,7 +646,7 @@ export const concerts = [
         place: 'Artsbourg, Ploemodiern'
     },
     {
-        date: new Date(2026, 8, 4, 19, 0),
+        date: new Date(2026, 8, 5, 19, 0),
         place: 'Concert à Domicile, La forest landerneau'
     },
     
