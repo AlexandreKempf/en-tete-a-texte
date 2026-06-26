@@ -613,7 +613,7 @@ export const concerts = [
         place: 'Camping Sandaya, Névez'
     },
      {
-        date: new Date(2026, 6, 9, 20, 0),
+        date: new Date(2026, 6, 10, 14, 0),
         place: 'Tremplin Festival Jean Ferrat, Antraigues-sur-Volane'
     },
     {
