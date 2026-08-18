@@ -629,10 +629,6 @@ export const concerts = [
         place: 'Camping du Loup Blanc, Plouhinec'
     },
     {
-        date: new Date(2026, 7, 23, 19, 0),
-        place: 'Artsbourg, Ploemodiern'
-    },
-    {
         date: new Date(2026, 7, 20, 18, 30),
         place: 'Parc Questel, Melgven'
     },
