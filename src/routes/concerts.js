@@ -636,17 +636,15 @@ export const concerts = [
         date: new Date(2026, 7, 26, 20, 0),
         place: 'Camping Sandaya, Névez'
     },
-
-    {
-        date: new Date(2026, 8, 4, 19, 0),
-        place: 'Artsbourg, Ploemodiern'
-    },
     {
         date: new Date(2026, 8, 5, 19, 0),
         place: 'Concert à Domicile, La forest landerneau'
     },
     
-    
+     {
+        date: new Date(2026, 11, 4, 19, 0),
+        place: 'Artsbourg, Ploemodiern'
+    },
 
      
    
