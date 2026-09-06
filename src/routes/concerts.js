@@ -640,6 +640,14 @@ export const concerts = [
         date: new Date(2026, 8, 5, 19, 0),
         place: 'Concert à Domicile, La forest landerneau'
     },
+    {
+        date: new Date(2026, 8, 12, 10, 0),
+        place: 'Les Musicales, Névez'
+    },
+    {
+        date: new Date(2026, 9, 18, 16, 0),
+        place: 'L\'annexe 23, Moëlan-Sur-Mer'
+    },
     
      {
         date: new Date(2026, 11, 4, 19, 0),
