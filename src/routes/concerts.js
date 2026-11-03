@@ -650,7 +650,7 @@ export const concerts = [
     },
     
      {
-        date: new Date(2026, 11, 4, 19, 0),
+        date: new Date(2026, 10, 4, 19, 0),
         place: 'Artsbourg, Ploemodiern'
     },
 
